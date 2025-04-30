@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="security.en">
+    <unit id="GrLNa9P" name="user.login_error.user_disabled">
+      <segment state="translated">
+        <source>user.login_error.user_disabled</source>
+        <target>Sua conta foi desativada! Entre em contato com um administrador se achar que isso está errado.</target>
+      </segment>
+    </unit>
+    <unit id="IFQ5XrG" name="saml.error.cannot_login_local_user_per_saml">
+      <segment state="translated">
+        <source>saml.error.cannot_login_local_user_per_saml</source>
+        <target>Você não pode fazer login como usuário local via SSO! Use sua senha de usuário local.</target>
+      </segment>
+    </unit>
+    <unit id="wOYPZmb" name="saml.error.cannot_login_saml_user_locally">
+      <segment state="translated">
+        <source>saml.error.cannot_login_saml_user_locally</source>
+        <target>Não é possível usar autenticação local para fazer login como usuário SAML! Em vez disso, use login SSO.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
