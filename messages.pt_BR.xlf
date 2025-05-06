@@ -318,7 +318,7 @@
       </notes>
       <segment state="translated">
         <source>admin.common</source>
-        <target>Comum</target>
+        <target>Geral</target>
       </segment>
     </unit>
     <unit id="fn26FXc" name="admin.attachments">
@@ -1125,7 +1125,7 @@ Subelementos serão movidos para cima.</target>
       </notes>
       <segment state="translated">
         <source>specifications.value_typ</source>
-        <target>Tipo</target>
+        <target>Tip.</target>
       </segment>
     </unit>
     <unit id="qiM8kUE" name="specifications.value_max">
@@ -1504,7 +1504,7 @@ Subelementos serão movidos para cima.</target>
       </notes>
       <segment state="final">
         <source>label_generator.common</source>
-        <target>Comum</target>
+        <target>Geral</target>
       </segment>
     </unit>
     <unit id="z3NZ9FP" name="label_generator.advanced">
@@ -1819,7 +1819,7 @@ Subelementos serão movidos para cima.</target>
       </notes>
       <segment state="translated">
         <source>part.edit.tab.common</source>
-        <target>Comum</target>
+        <target>Geral</target>
       </segment>
     </unit>
     <unit id="cnW4mF_" name="part.edit.tab.manufacturer">
@@ -2693,7 +2693,7 @@ Subelementos serão movidos para cima.</target>
       </notes>
       <segment state="translated">
         <source>entity.info.common.tab</source>
-        <target>Comum</target>
+        <target>Geral</target>
       </segment>
     </unit>
     <unit id="tdmj9TI" name="entity.info.statistics.tab">
@@ -3649,7 +3649,7 @@ Observe também que, sem a autenticação de dois fatores, sua conta não estar�
       </notes>
       <segment state="translated">
         <source>tfa_google.manual_setup.type</source>
-        <target>Digite</target>
+        <target>Tipo de autenticação</target>
       </segment>
     </unit>
     <unit id="sQov8Ee" name="tfa_google.manual_setup.username">
@@ -3669,7 +3669,7 @@ Observe também que, sem a autenticação de dois fatores, sua conta não estar�
       </notes>
       <segment state="translated">
         <source>tfa_google.manual_setup.secret</source>
-        <target>Segredo</target>
+        <target>Chave Secreta</target>
       </segment>
     </unit>
     <unit id="Z4Odl5g" name="tfa_google.manual_setup.digit_count">
@@ -3679,7 +3679,7 @@ Observe também que, sem a autenticação de dois fatores, sua conta não estar�
       </notes>
       <segment state="translated">
         <source>tfa_google.manual_setup.digit_count</source>
-        <target>Contagem de dígitos</target>
+        <target>Quantidade de dígitos</target>
       </segment>
     </unit>
     <unit id="HDWzvAN" name="tfa_google.enabled_message">
@@ -3842,7 +3842,7 @@ Observe também que, sem a autenticação de dois fatores, sua conta não estar�
       <segment state="translated">
         <source>tfa_trustedDevices.explanation</source>
         <target>Ao verificar o segundo fator, o computador atual pode ser marcado como confiável, portanto, não são necessárias mais verificações de dois fatores neste computador.
-Se você fez isso incorretamente ou se um computador não for mais confiável, você pode redefinir o status de &lt;i&gt;todos&lt;/i&gt;os computadores aqui.</target>
+Se você fez isso incorretamente ou se um computador não for mais confiável, você pode redefinir o status de &lt;i&gt;todos&lt;/i&gt; os computadores aqui.</target>
       </segment>
     </unit>
     <unit id="FZINq8z" name="tfa_trustedDevices.invalidate.confirm_title">
@@ -5814,7 +5814,7 @@ Se você fez isso incorretamente ou se um computador não for mais confiável, v
       </notes>
       <segment state="translated">
         <source>part_lot.edit.needs_refill</source>
-        <target>Precisa de recarga</target>
+        <target>Necessita de reabastecimento</target>
       </segment>
     </unit>
     <unit id="0Xm4Lls" name="part_lot.edit.expiration_date">
@@ -6856,7 +6856,7 @@ Se você fez isso incorretamente ou se um computador não for mais confiável, v
       </notes>
       <segment state="translated">
         <source>category.edit.disable_footprints</source>
-        <target>Disable footprints</target>
+        <target>Desativar footprints</target>
       </segment>
     </unit>
     <unit id="MLbac5k" name="category.edit.disable_footprints.help">
@@ -6866,7 +6866,7 @@ Se você fez isso incorretamente ou se um computador não for mais confiável, v
       </notes>
       <segment state="translated">
         <source>category.edit.disable_footprints.help</source>
-        <target>If this option is activated, the footprint property is disabled for all parts with this category.</target>
+        <target>Se esta opção estiver ativada, a propriedade de footprint será desativada para todas as peças com esta categoria.</target>
       </segment>
     </unit>
     <unit id="JWHe4Hi" name="category.edit.disable_manufacturers">
@@ -6876,7 +6876,7 @@ Se você fez isso incorretamente ou se um computador não for mais confiável, v
       </notes>
       <segment state="translated">
         <source>category.edit.disable_manufacturers</source>
-        <target>Disable manufacturers</target>
+        <target>Desativar fabricantes</target>
       </segment>
     </unit>
     <unit id=".ItLezq" name="category.edit.disable_manufacturers.help">
@@ -6886,7 +6886,7 @@ Se você fez isso incorretamente ou se um computador não for mais confiável, v
       </notes>
       <segment state="translated">
         <source>category.edit.disable_manufacturers.help</source>
-        <target>If this option is activated, the manufacturer property is disabled for all parts with this category.</target>
+        <target>Se esta opção estiver ativada, a propriedade de fabricante será desativada para todas as peças com esta categoria.</target>
       </segment>
     </unit>
     <unit id="g_gRbhu" name="category.edit.disable_autodatasheets">
@@ -6896,7 +6896,7 @@ Se você fez isso incorretamente ou se um computador não for mais confiável, v
       </notes>
       <segment state="translated">
         <source>category.edit.disable_autodatasheets</source>
-        <target>Disable automatic datasheet links</target>
+        <target>Desativar links automáticos para folhas de dados</target>
       </segment>
     </unit>
     <unit id="veb39eK" name="category.edit.disable_autodatasheets.help">
@@ -6906,7 +6906,7 @@ Se você fez isso incorretamente ou se um computador não for mais confiável, v
       </notes>
       <segment state="translated">
         <source>category.edit.disable_autodatasheets.help</source>
-        <target>If this option is activated, no automatic links to datasheets are created for parts with this category.</target>
+        <target>Se esta opção estiver ativada, nenhum link automático para folhas de dados será criado para peças com esta categoria.</target>
       </segment>
     </unit>
     <unit id="QzSkLse" name="category.edit.disable_properties">
@@ -6916,7 +6916,7 @@ Se você fez isso incorretamente ou se um computador não for mais confiável, v
       </notes>
       <segment state="translated">
         <source>category.edit.disable_properties</source>
-        <target>Disable properties</target>
+        <target>Desativar propriedades</target>
       </segment>
     </unit>
     <unit id="MFnk31h" name="category.edit.disable_properties.help">
@@ -6926,7 +6926,7 @@ Se você fez isso incorretamente ou se um computador não for mais confiável, v
       </notes>
       <segment state="translated">
         <source>category.edit.disable_properties.help</source>
-        <target>If this option is activated, the part properties are disabled for parts with this category.</target>
+        <target>Se esta opção estiver ativada, as propriedades da peça serão desativadas para peças com esta categoria.</target>
       </segment>
     </unit>
     <unit id="ILoRXgM" name="category.edit.partname_hint">
@@ -7097,7 +7097,7 @@ Exampletown</target>
       </notes>
       <segment state="translated">
         <source>company.edit.auto_product_url.help</source>
-        <target>This field is used to determine a link to the part on the company page. %PARTNUMBER% will be replaced with the order number.</target>
+        <target>Este campo é usado para determinar um link para a peça na página da empresa. %PARTNUMBER% será substituído pelo número do pedido.</target>
       </segment>
     </unit>
     <unit id="buxH6LW" name="company.edit.auto_product_url.placeholder">
@@ -7117,7 +7117,7 @@ Exampletown</target>
       </notes>
       <segment state="translated">
         <source>currency.edit.iso_code</source>
-        <target>ISO code</target>
+        <target>Código ISO</target>
       </segment>
     </unit>
     <unit id="riG2jA5" name="currency.edit.exchange_rate">
@@ -7127,7 +7127,7 @@ Exampletown</target>
       </notes>
       <segment state="translated">
         <source>currency.edit.exchange_rate</source>
-        <target>Exchange rate</target>
+        <target>Taxa de câmbio</target>
       </segment>
     </unit>
     <unit id="x9Vz.Ts" name="footprint.edit.3d_model">
@@ -7137,7 +7137,7 @@ Exampletown</target>
       </notes>
       <segment state="translated">
         <source>footprint.edit.3d_model</source>
-        <target>3D model</target>
+        <target>Modelo 3D</target>
       </segment>
     </unit>
     <unit id="foAWDGv" name="mass_creation.lines">
@@ -7147,7 +7147,7 @@ Exampletown</target>
       </notes>
       <segment state="translated">
         <source>mass_creation.lines</source>
-        <target>Input</target>
+        <target>Entrada</target>
       </segment>
     </unit>
     <unit id="nYlVgsL" name="mass_creation.lines.placeholder">
@@ -7157,12 +7157,12 @@ Exampletown</target>
       </notes>
       <segment state="translated">
         <source>mass_creation.lines.placeholder</source>
-        <target>Element 1
-   Element 1.1
-      Element 1.1.1
-   Element 1.2
-Element 2
-Element 3</target>
+        <target>Elemento 1
+   Elemento 1.1
+      Elemento 1.1.1
+   Elemento 1.2
+Elemento 2
+Elemento 3</target>
       </segment>
     </unit>
     <unit id="TWSqPFi" name="entity.mass_creation.btn">
@@ -7172,7 +7172,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>entity.mass_creation.btn</source>
-        <target>Create</target>
+        <target>Criar</target>
       </segment>
     </unit>
     <unit id="qJKwgn2" name="measurement_unit.edit.is_integer">
@@ -7182,7 +7182,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>measurement_unit.edit.is_integer</source>
-        <target>Is integer</target>
+        <target>É inteiro</target>
       </segment>
     </unit>
     <unit id="u3dn3AS" name="measurement_unit.edit.is_integer.help">
@@ -7192,7 +7192,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>measurement_unit.edit.is_integer.help</source>
-        <target>If this option is activated, all values with this unit will be rounded to whole numbers.</target>
+        <target>Se esta opção estiver ativada, todos os valores com esta unidade serão arredondados para números inteiros.</target>
       </segment>
     </unit>
     <unit id="gZdMQSn" name="measurement_unit.edit.use_si_prefix">
@@ -7202,7 +7202,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>measurement_unit.edit.use_si_prefix</source>
-        <target>Use SI prefix</target>
+        <target>Usar prefixo SI</target>
       </segment>
     </unit>
     <unit id="vvnrMJA" name="measurement_unit.edit.use_si_prefix.help">
@@ -7212,7 +7212,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>measurement_unit.edit.use_si_prefix.help</source>
-        <target>If this option is activated, values are outputted with SI prefixes (e.g. 1,2kg instead of 1200g)</target>
+        <target>Se esta opção estiver ativada, os valores serão emitidos com prefixos SI (por exemplo, 1,2 kg em vez de 1200 g)</target>
       </segment>
     </unit>
     <unit id="gPCdcst" name="measurement_unit.edit.unit_symbol">
@@ -7222,7 +7222,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>measurement_unit.edit.unit_symbol</source>
-        <target>Unit symbol</target>
+        <target>Símbolo da unidade</target>
       </segment>
     </unit>
     <unit id="vCiMyIU" name="measurement_unit.edit.unit_symbol.placeholder">
@@ -7232,7 +7232,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>measurement_unit.edit.unit_symbol.placeholder</source>
-        <target>e.g. m</target>
+        <target>por exemplo, m</target>
       </segment>
     </unit>
     <unit id="_xazC8o" name="storelocation.edit.is_full.label">
@@ -7242,7 +7242,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>storelocation.edit.is_full.label</source>
-        <target>Storelocation full</target>
+        <target>Loja lotada</target>
       </segment>
     </unit>
     <unit id="XF4C7ZG" name="storelocation.edit.is_full.help">
@@ -7252,7 +7252,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>storelocation.edit.is_full.help</source>
-        <target>If this option is selected, it is neither possible to add new parts to this storelocation or to increase the amount of existing parts.</target>
+        <target>Se esta opção estiver selecionada, não será possível adicionar novas peças a esta loja nem aumentar a quantidade de peças existentes.</target>
       </segment>
     </unit>
     <unit id="V1su4ac" name="storelocation.limit_to_existing.label">
@@ -7262,7 +7262,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>storelocation.limit_to_existing.label</source>
-        <target>Limit to existing parts</target>
+        <target>Limitar a peças existentes</target>
       </segment>
     </unit>
     <unit id="6D.6huj" name="storelocation.limit_to_existing.help">
@@ -7272,7 +7272,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>storelocation.limit_to_existing.help</source>
-        <target>If this option is activated, it is not possible to add new parts to this storelocation, but the amount of existing parts can be increased.</target>
+        <target>Se esta opção estiver ativada, não será possível adicionar novas peças a esta loja, mas a quantidade de peças existentes poderá ser aumentada.</target>
       </segment>
     </unit>
     <unit id="tGVVeof" name="storelocation.only_single_part.label">
@@ -7282,7 +7282,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>storelocation.only_single_part.label</source>
-        <target>Only single part</target>
+        <target>Apenas uma peça</target>
       </segment>
     </unit>
     <unit id="Hyh5pvY" name="storelocation.only_single_part.help">
@@ -7292,7 +7292,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>storelocation.only_single_part.help</source>
-        <target>If this option is activated, only a single part (with every amount) can be assigned to this storage location. Useful for small SMD boxes or feeders.</target>
+        <target>Se esta opção estiver ativada, apenas uma peça (com cada quantidade) poderá ser atribuída a esta loja. Útil para pequenas caixas SMD ou alimentadores.</target>
       </segment>
     </unit>
     <unit id="sty2ele" name="storelocation.storage_type.label">
@@ -7302,7 +7302,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>storelocation.storage_type.label</source>
-        <target>Storage type</target>
+        <target>Tipo de armazenamento</target>
       </segment>
     </unit>
     <unit id="V5bAC9W" name="storelocation.storage_type.help">
@@ -7312,7 +7312,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>storelocation.storage_type.help</source>
-        <target>You can select a measurement unit here, which a part must have to be able to be assigned to this storage location</target>
+        <target>Você pode selecionar uma unidade de medida aqui, que uma peça deve ter para poder ser atribuída a este local de armazenamento.</target>
       </segment>
     </unit>
     <unit id="ilC3c6u" name="supplier.edit.default_currency">
@@ -7322,7 +7322,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>supplier.edit.default_currency</source>
-        <target>Default currency</target>
+        <target>Moeda padrão</target>
       </segment>
     </unit>
     <unit id="g_1n6ln" name="supplier.shipping_costs.label">
@@ -7332,7 +7332,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>supplier.shipping_costs.label</source>
-        <target>Shipping Costs</target>
+        <target>Custos de envio</target>
       </segment>
     </unit>
     <unit id="1oS_Sxe" name="user.username.placeholder">
@@ -7342,7 +7342,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>user.username.placeholder</source>
-        <target>e.g. j.doe</target>
+        <target>ex.: j.doe</target>
       </segment>
     </unit>
     <unit id="NVpoLlP" name="user.firstName.placeholder">
@@ -7352,7 +7352,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>user.firstName.placeholder</source>
-        <target>e.g John</target>
+        <target>ex.: John</target>
       </segment>
     </unit>
     <unit id="lYSMN_y" name="user.lastName.placeholder">
@@ -7362,7 +7362,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>user.lastName.placeholder</source>
-        <target>e.g. Doe</target>
+        <target>ex.: Doe</target>
       </segment>
     </unit>
     <unit id="jiKhU7W" name="user.email.placeholder">
@@ -7382,7 +7382,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>user.department.placeholder</source>
-        <target>e.g. Development</target>
+        <target>ex.: Desenvolvimento</target>
       </segment>
     </unit>
     <unit id="zAQlC_i" name="user.settings.pw_new.label">
@@ -7392,7 +7392,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>user.settings.pw_new.label</source>
-        <target>New password</target>
+        <target>Nova senha</target>
       </segment>
     </unit>
     <unit id="hoxGr2I" name="user.settings.pw_confirm.label">
@@ -7402,7 +7402,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>user.settings.pw_confirm.label</source>
-        <target>Confirm new password</target>
+        <target>Confirmar nova senha</target>
       </segment>
     </unit>
     <unit id="7xPRLHW" name="user.edit.needs_pw_change">
@@ -7412,7 +7412,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>user.edit.needs_pw_change</source>
-        <target>User needs to change password</target>
+        <target>O usuário precisa alterar a senha</target>
       </segment>
     </unit>
     <unit id="77ZzKxQ" name="user.edit.user_disabled">
@@ -7422,7 +7422,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>user.edit.user_disabled</source>
-        <target>User disabled (no login possible)</target>
+        <target>Usuário desabilitado (nenhum login possível)</target>
       </segment>
     </unit>
     <unit id="1.5z09Y" name="user.create">
@@ -7432,7 +7432,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>user.create</source>
-        <target>Create user</target>
+        <target>Criar usuário</target>
       </segment>
     </unit>
     <unit id="Rd9sNEU" name="user.edit.save">
@@ -7442,7 +7442,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>user.edit.save</source>
-        <target>Save</target>
+        <target>Salvar</target>
       </segment>
     </unit>
     <unit id="uTYx0nw" name="entity.edit.reset">
@@ -7452,7 +7452,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>entity.edit.reset</source>
-        <target>Discard changes</target>
+        <target>Descartar alterações</target>
       </segment>
     </unit>
     <unit id="rwhG3NF" name="part.withdraw.btn">
@@ -7463,7 +7463,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>part.withdraw.btn</source>
-        <target>Withdraw</target>
+        <target>Retirar</target>
       </segment>
     </unit>
     <unit id="KYhBkRo" name="part.withdraw.comment:">
@@ -7474,7 +7474,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>part.withdraw.comment:</source>
-        <target>Comment/Purpose</target>
+        <target>Comentário/Finalidade</target>
       </segment>
     </unit>
     <unit id="kAlV8Zt" name="part.add.caption">
@@ -7485,7 +7485,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>part.add.caption</source>
-        <target>Add parts</target>
+        <target>Adicionar peças</target>
       </segment>
     </unit>
     <unit id="TAZxRYj" name="part.add.btn">
@@ -7496,7 +7496,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>part.add.btn</source>
-        <target>Add</target>
+        <target>Adicionar</target>
       </segment>
     </unit>
     <unit id="yqLffb1" name="part.add.comment">
@@ -7507,7 +7507,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>part.add.comment</source>
-        <target>Comment/Purpose</target>
+        <target>Comentário/Finalidade</target>
       </segment>
     </unit>
     <unit id="oj5uuIF" name="admin.comment">
@@ -7518,7 +7518,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>admin.comment</source>
-        <target>Notes</target>
+        <target>Observações</target>
       </segment>
     </unit>
     <unit id="VI_567B" name="manufacturer_url.label">
@@ -7529,7 +7529,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>manufacturer_url.label</source>
-        <target>Manufacturer link</target>
+        <target>Link do fabricante</target>
       </segment>
     </unit>
     <unit id="hx8T2RQ" name="part.description.placeholder">
@@ -7540,7 +7540,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>part.description.placeholder</source>
-        <target>e.g. NPN 45V 0,1A 0,5W</target>
+        <target>ex.: NPN 45V 0,1A 0,5W</target>
       </segment>
     </unit>
     <unit id="SDwGex2" name="part.instock.placeholder">
@@ -7551,7 +7551,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>part.instock.placeholder</source>
-        <target>e.g. 10</target>
+        <target>ex.: 10</target>
       </segment>
     </unit>
     <unit id="of7AUNW" name="part.mininstock.placeholder">
@@ -7562,7 +7562,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>part.mininstock.placeholder</source>
-        <target>e.g. 5</target>
+        <target>ex.: 5</target>
       </segment>
     </unit>
     <unit id="OsZzrme" name="part.order.price_per">
@@ -7572,7 +7572,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>part.order.price_per</source>
-        <target>Price per</target>
+        <target>Preço por</target>
       </segment>
     </unit>
     <unit id="dEQm2lQ" name="part.withdraw.caption">
@@ -7582,7 +7582,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>part.withdraw.caption</source>
-        <target>Withdraw parts</target>
+        <target>Retirar peças</target>
       </segment>
     </unit>
     <unit id="MxKRRx_" name="datatable.datatable.lengthMenu">
@@ -7602,7 +7602,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.group.parts</source>
-        <target>Parts</target>
+        <target>Peças</target>
       </segment>
     </unit>
     <unit id="MWuraHU" name="perm.group.structures">
@@ -7612,7 +7612,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.group.structures</source>
-        <target>Data structures</target>
+        <target>Estruturas de dados</target>
       </segment>
     </unit>
     <unit id="YR3Kupe" name="perm.group.system">
@@ -7622,7 +7622,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.group.system</source>
-        <target>System</target>
+        <target>Sistema</target>
       </segment>
     </unit>
     <unit id="QpKjLiE" name="perm.parts">
@@ -7632,7 +7632,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.parts</source>
-        <target>Parts</target>
+        <target>Peças</target>
       </segment>
     </unit>
     <unit id="lkP7BGp" name="perm.read">
@@ -7642,7 +7642,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.read</source>
-        <target>View</target>
+        <target>Visualizar</target>
       </segment>
     </unit>
     <unit id="LqLEHbP" name="perm.edit">
@@ -7652,7 +7652,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.edit</source>
-        <target>Edit</target>
+        <target>Editar</target>
       </segment>
     </unit>
     <unit id="r4UG6G7" name="perm.create">
@@ -7662,7 +7662,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.create</source>
-        <target>Create</target>
+        <target>Criar</target>
       </segment>
     </unit>
     <unit id="cWi17IQ" name="perm.part.move">
@@ -7672,7 +7672,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.move</source>
-        <target>Change category</target>
+        <target>Alterar categoria</target>
       </segment>
     </unit>
     <unit id="rwuTftF" name="perm.delete">
@@ -7682,7 +7682,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.delete</source>
-        <target>Delete</target>
+        <target>Excluir</target>
       </segment>
     </unit>
     <unit id="s9QV27G" name="perm.part.search">
@@ -7692,7 +7692,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.search</source>
-        <target>Search</target>
+        <target>Pesquisar</target>
       </segment>
     </unit>
     <unit id="JpHblld" name="perm.part.all_parts">
@@ -7702,7 +7702,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.all_parts</source>
-        <target>List all parts</target>
+        <target>Listar todas as peças</target>
       </segment>
     </unit>
     <unit id="xGpxdp3" name="perm.part.no_price_parts">
@@ -7712,7 +7712,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.no_price_parts</source>
-        <target>List parts without price info</target>
+        <target>Listar peças sem informação de preço</target>
       </segment>
     </unit>
     <unit id="gVBtadZ" name="perm.part.obsolete_parts">
@@ -7722,7 +7722,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.obsolete_parts</source>
-        <target>List obsolete parts</target>
+        <target>Listar peças obsoletas</target>
       </segment>
     </unit>
     <unit id="rh5syrd" name="perm.part.unknown_instock_parts">
@@ -7732,7 +7732,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.unknown_instock_parts</source>
-        <target>Show parts with unknown instock</target>
+        <target>Mostrar peças com estoque desconhecido</target>
       </segment>
     </unit>
     <unit id="NPRUtkE" name="perm.part.change_favorite">
@@ -7742,7 +7742,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.change_favorite</source>
-        <target>Change favorite status</target>
+        <target>Alterar status de favorito</target>
       </segment>
     </unit>
     <unit id="uSlD_4R" name="perm.part.show_favorite">
@@ -7752,7 +7752,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.show_favorite</source>
-        <target>List favorite parts</target>
+        <target>Listar peças favoritas</target>
       </segment>
     </unit>
     <unit id="a6_M8G2" name="perm.part.show_last_edit_parts">
@@ -7762,7 +7762,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.show_last_edit_parts</source>
-        <target>Show last edited/added parts</target>
+        <target>Mostrar as últimas peças editadas/adicionadas</target>
       </segment>
     </unit>
     <unit id="_d1.jDW" name="perm.part.show_users">
@@ -7772,7 +7772,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.show_users</source>
-        <target>Show last modifying user</target>
+        <target>Mostrar o último usuário modificador</target>
       </segment>
     </unit>
     <unit id="rRpUKnD" name="perm.part.show_history">
@@ -7782,7 +7782,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.show_history</source>
-        <target>Show history</target>
+        <target>Mostrar histórico</target>
       </segment>
     </unit>
     <unit id="daTZIiU" name="perm.part.name">
@@ -7792,7 +7792,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.name</source>
-        <target>Name</target>
+        <target>Nome</target>
       </segment>
     </unit>
     <unit id="8xbBpd6" name="perm.part.description">
@@ -7802,7 +7802,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.description</source>
-        <target>Description</target>
+        <target>Descrição</target>
       </segment>
     </unit>
     <unit id="NXbqLSh" name="perm.part.instock">
@@ -7812,7 +7812,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.instock</source>
-        <target>Instock</target>
+        <target>Em estoque</target>
       </segment>
     </unit>
     <unit id="_4ZW26T" name="perm.part.mininstock">
@@ -7822,7 +7822,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.mininstock</source>
-        <target>Minimum instock</target>
+        <target>Estoque mínimo</target>
       </segment>
     </unit>
     <unit id="bip50EM" name="perm.part.comment">
@@ -7832,7 +7832,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.comment</source>
-        <target>Notes</target>
+        <target>Observações</target>
       </segment>
     </unit>
     <unit id="diqCrTG" name="perm.part.storelocation">
@@ -7842,7 +7842,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.storelocation</source>
-        <target>Storage location</target>
+        <target>Local de armazenamento</target>
       </segment>
     </unit>
     <unit id="ijqgYFf" name="perm.part.manufacturer">
@@ -7852,7 +7852,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.manufacturer</source>
-        <target>Manufacturer</target>
+        <target>Fabricante</target>
       </segment>
     </unit>
     <unit id="JMu_.7." name="perm.part.orderdetails">
@@ -7862,7 +7862,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.orderdetails</source>
-        <target>Order information</target>
+        <target>Informações do pedido</target>
       </segment>
     </unit>
     <unit id="rFVBtUF" name="perm.part.prices">
@@ -7872,7 +7872,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.prices</source>
-        <target>Prices</target>
+        <target>Preços</target>
       </segment>
     </unit>
     <unit id="xRY0lOj" name="perm.part.attachments">
@@ -7882,7 +7882,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.attachments</source>
-        <target>File attachments</target>
+        <target>Anexos de arquivo</target>
       </segment>
     </unit>
     <unit id="M2Gqflj" name="perm.part.order">
@@ -7892,7 +7892,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.order</source>
-        <target>Orders</target>
+        <target>Pedidos</target>
       </segment>
     </unit>
     <unit id="9e70TDD" name="perm.storelocations">
@@ -7902,7 +7902,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.storelocations</source>
-        <target>Storage locations</target>
+        <target>Locais de armazenamento</target>
       </segment>
     </unit>
     <unit id="iKqTace" name="perm.move">
@@ -7912,7 +7912,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.move</source>
-        <target>Move</target>
+        <target>Mover</target>
       </segment>
     </unit>
     <unit id="8B44iXL" name="perm.list_parts">
@@ -7922,7 +7922,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.list_parts</source>
-        <target>List parts</target>
+        <target>Listar peças</target>
       </segment>
     </unit>
     <unit id="qp4Nw88" name="perm.part.footprints">
@@ -7942,7 +7942,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.categories</source>
-        <target>Categories</target>
+        <target>Categorias</target>
       </segment>
     </unit>
     <unit id="gJeta6V" name="perm.part.supplier">
@@ -7952,7 +7952,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.supplier</source>
-        <target>Suppliers</target>
+        <target>Fornecedores</target>
       </segment>
     </unit>
     <unit id="AAW9ULn" name="perm.part.manufacturers">
@@ -7962,7 +7962,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.manufacturers</source>
-        <target>Manufacturers</target>
+        <target>Fabricantes</target>
       </segment>
     </unit>
     <unit id="xIsPPzY" name="perm.projects">
@@ -7972,7 +7972,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.projects</source>
-        <target>Projects</target>
+        <target>Projetos</target>
       </segment>
     </unit>
     <unit id="Fa9cXuf" name="perm.part.attachment_types">
@@ -7982,7 +7982,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.attachment_types</source>
-        <target>Attachment types</target>
+        <target>Tipos de anexo</target>
       </segment>
     </unit>
     <unit id="lIHo4Hd" name="perm.tools.import">
@@ -7992,7 +7992,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.tools.import</source>
-        <target>Import</target>
+        <target>Importar</target>
       </segment>
     </unit>
     <unit id="hZWt_at" name="perm.tools.labels">
@@ -8002,7 +8002,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.tools.labels</source>
-        <target>Labels</target>
+        <target>Etiquetas</target>
       </segment>
     </unit>
     <unit id="d6tsIx1" name="perm.tools.calculator">
@@ -8012,7 +8012,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.tools.calculator</source>
-        <target>Resistor calculator</target>
+        <target>Calculadora de resistores</target>
       </segment>
     </unit>
     <unit id="h.oYJ8V" name="perm.tools.footprints">
@@ -8032,7 +8032,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.tools.ic_logos</source>
-        <target>IC logos</target>
+        <target>Logotipos de CI</target>
       </segment>
     </unit>
     <unit id="Y_XwfhZ" name="perm.tools.statistics">
@@ -8042,7 +8042,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.tools.statistics</source>
-        <target>Statistics</target>
+        <target>Estatísticas</target>
       </segment>
     </unit>
     <unit id="ytPkIIU" name="perm.edit_permissions">
@@ -8052,7 +8052,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.edit_permissions</source>
-        <target>Edit permissions</target>
+        <target>Editar permissões</target>
       </segment>
     </unit>
     <unit id="DPKQxmA" name="perm.users.edit_user_name">
@@ -8062,7 +8062,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.users.edit_user_name</source>
-        <target>Edit user name</target>
+        <target>Editar nome de usuário</target>
       </segment>
     </unit>
     <unit id="ttdtKyD" name="perm.users.edit_change_group">
@@ -8072,7 +8072,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.users.edit_change_group</source>
-        <target>Change group</target>
+        <target>Alterar grupo</target>
       </segment>
     </unit>
     <unit id="XeVuIwd" name="perm.users.edit_infos">
@@ -8082,7 +8082,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.users.edit_infos</source>
-        <target>Edit info</target>
+        <target>Editar informações</target>
       </segment>
     </unit>
     <unit id=".Mu5RB1" name="perm.users.edit_permissions">
@@ -8092,7 +8092,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.users.edit_permissions</source>
-        <target>Edit permissions</target>
+        <target>Editar permissões</target>
       </segment>
     </unit>
     <unit id="L5LgaCa" name="perm.users.set_password">
@@ -8102,7 +8102,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.users.set_password</source>
-        <target>Set password</target>
+        <target>Definir senha</target>
       </segment>
     </unit>
     <unit id="ujyzLbg" name="perm.users.change_user_settings">
@@ -8112,7 +8112,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.users.change_user_settings</source>
-        <target>Change user settings</target>
+        <target>Alterar configurações do usuário</target>
       </segment>
     </unit>
     <unit id="7KsjU89" name="perm.database.see_status">
@@ -8122,7 +8122,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.database.see_status</source>
-        <target>Show status</target>
+        <target>Mostrar status</target>
       </segment>
     </unit>
     <unit id="3_7e2UL" name="perm.database.update_db">
@@ -8132,7 +8132,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.database.update_db</source>
-        <target>Update DB</target>
+        <target>Atualizar banco de dados</target>
       </segment>
     </unit>
     <unit id="QNfaufA" name="perm.database.read_db_settings">
@@ -8142,7 +8142,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.database.read_db_settings</source>
-        <target>Read DB settings</target>
+        <target>Ler configurações do banco de dados</target>
       </segment>
     </unit>
     <unit id="U.dPyKO" name="perm.database.write_db_settings">
@@ -8152,7 +8152,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.database.write_db_settings</source>
-        <target>Write DB settings</target>
+        <target>Escrever configurações do banco de dados</target>
       </segment>
     </unit>
     <unit id="uAC5BxC" name="perm.config.read_config">
@@ -8162,7 +8162,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.config.read_config</source>
-        <target>Read config</target>
+        <target>Ler configuração</target>
       </segment>
     </unit>
     <unit id="tQjPf61" name="perm.config.edit_config">
@@ -8172,7 +8172,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.config.edit_config</source>
-        <target>Edit config</target>
+        <target>Editar configuração</target>
       </segment>
     </unit>
     <unit id="mU1UGgy" name="perm.config.server_info">
@@ -8182,7 +8182,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.config.server_info</source>
-        <target>Server info</target>
+        <target>Informações do servidor</target>
       </segment>
     </unit>
     <unit id="vWNicrf" name="perm.config.use_debug">
@@ -8192,7 +8192,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.config.use_debug</source>
-        <target>Use debug tools</target>
+        <target>Usar ferramentas de depuração</target>
       </segment>
     </unit>
     <unit id="tOpPgI8" name="perm.show_logs">
@@ -8202,7 +8202,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.show_logs</source>
-        <target>Show logs</target>
+        <target>Mostrar logs</target>
       </segment>
     </unit>
     <unit id="dCMe8ah" name="perm.delete_logs">
@@ -8212,7 +8212,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.delete_logs</source>
-        <target>Delete logs</target>
+        <target>Excluir logs</target>
       </segment>
     </unit>
     <unit id="nILP34y" name="perm.self.edit_infos">
@@ -8222,7 +8222,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.self.edit_infos</source>
-        <target>Edit info</target>
+        <target>Editar informações</target>
       </segment>
     </unit>
     <unit id="R8OxrPr" name="perm.self.edit_username">
@@ -8232,7 +8232,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.self.edit_username</source>
-        <target>Edit username</target>
+        <target>Editar nome de usuário</target>
       </segment>
     </unit>
     <unit id="pOG2vUW" name="perm.self.show_permissions">
@@ -8242,7 +8242,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.self.show_permissions</source>
-        <target>View permissions</target>
+        <target>Visualizar permissões</target>
       </segment>
     </unit>
     <unit id="1_vJh4k" name="perm.self.show_logs">
@@ -8252,7 +8252,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.self.show_logs</source>
-        <target>Show own log entries</target>
+        <target>Mostrar entradas de log próprias</target>
       </segment>
     </unit>
     <unit id="61TrD1b" name="perm.self.create_labels">
@@ -8262,7 +8262,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.self.create_labels</source>
-        <target>Create labels</target>
+        <target>Criar etiquetas</target>
       </segment>
     </unit>
     <unit id="nfql2KA" name="perm.self.edit_options">
@@ -8272,7 +8272,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.self.edit_options</source>
-        <target>Edit options</target>
+        <target>Editar opções</target>
       </segment>
     </unit>
     <unit id="w1Y2HMv" name="perm.self.delete_profiles">
@@ -8282,7 +8282,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.self.delete_profiles</source>
-        <target>Delete profiles</target>
+        <target>Excluir perfis</target>
       </segment>
     </unit>
     <unit id="boAMRVq" name="perm.self.edit_profiles">
@@ -8292,7 +8292,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.self.edit_profiles</source>
-        <target>Edit profiles</target>
+        <target>Editar perfis</target>
       </segment>
     </unit>
     <unit id="Q9lnyX8" name="perm.part.tools">
@@ -8302,7 +8302,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.tools</source>
-        <target>Tools</target>
+        <target>Ferramentas</target>
       </segment>
     </unit>
     <unit id="lfusMAZ" name="perm.groups">
@@ -8312,7 +8312,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.groups</source>
-        <target>Groups</target>
+        <target>Grupos</target>
       </segment>
     </unit>
     <unit id="SIdd_dV" name="perm.users">
@@ -8322,7 +8322,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.users</source>
-        <target>Users</target>
+        <target>Usuários</target>
       </segment>
     </unit>
     <unit id="zAtzrfn" name="perm.database">
@@ -8332,7 +8332,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.database</source>
-        <target>Database</target>
+        <target>Banco de dados</target>
       </segment>
     </unit>
     <unit id="dUXVP7t" name="perm.config">
@@ -8342,7 +8342,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.config</source>
-        <target>Configuration</target>
+        <target>Configuração</target>
       </segment>
     </unit>
     <unit id="OO4RqQz" name="perm.system">
@@ -8352,7 +8352,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.system</source>
-        <target>System</target>
+        <target>Sistema</target>
       </segment>
     </unit>
     <unit id="VN4dSmv" name="perm.self">
@@ -8362,7 +8362,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.self</source>
-        <target>Own user</target>
+        <target>Usuário próprio</target>
       </segment>
     </unit>
     <unit id="A7uyqD9" name="perm.labels">
@@ -8372,7 +8372,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.labels</source>
-        <target>Labels</target>
+        <target>Etiquetas</target>
       </segment>
     </unit>
     <unit id="slAwBk7" name="perm.part.category">
@@ -8382,7 +8382,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.category</source>
-        <target>Category</target>
+        <target>Categoria</target>
       </segment>
     </unit>
     <unit id="QP8XpIR" name="perm.part.minamount">
@@ -8392,7 +8392,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.minamount</source>
-        <target>Minimum amount</target>
+        <target>Valor mínimo</target>
       </segment>
     </unit>
     <unit id="OB7qVWO" name="perm.part.footprint">
@@ -8422,7 +8422,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.status</source>
-        <target>Manufacturing status</target>
+        <target>Fabricação Status</target>
       </segment>
     </unit>
     <unit id="jZvB1lZ" name="perm.part.tags">
@@ -8432,7 +8432,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.tags</source>
-        <target>Tags</target>
+        <target>Etiquetas</target>
       </segment>
     </unit>
     <unit id="359tBYD" name="perm.part.unit">
@@ -8442,7 +8442,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.unit</source>
-        <target>Part unit</target>
+        <target>Unidade de peça</target>
       </segment>
     </unit>
     <unit id="BX.bamX" name="perm.part.mass">
@@ -8462,7 +8462,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.lots</source>
-        <target>Part lots</target>
+        <target>Lotes de peças</target>
       </segment>
     </unit>
     <unit id="Ig0En5M" name="perm.show_users">
@@ -8472,7 +8472,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.show_users</source>
-        <target>Show last modifying user</target>
+        <target>Mostrar último usuário modificador</target>
       </segment>
     </unit>
     <unit id="6iZ6MvE" name="perm.currencies">
@@ -8482,7 +8482,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.currencies</source>
-        <target>Currencies</target>
+        <target>Moedas</target>
       </segment>
     </unit>
     <unit id="RA9fVQi" name="perm.measurement_units">
@@ -8492,7 +8492,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.measurement_units</source>
-        <target>Measurement unit</target>
+        <target>Unidade de medida</target>
       </segment>
     </unit>
     <unit id="coNue69" name="user.settings.pw_old.label">
@@ -8502,7 +8502,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>user.settings.pw_old.label</source>
-        <target>Old password</target>
+        <target>Senha antiga</target>
       </segment>
     </unit>
     <unit id="2A8gn6V" name="pw_reset.submit">
@@ -8512,7 +8512,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>pw_reset.submit</source>
-        <target>Reset password</target>
+        <target>Redefinir senha</target>
       </segment>
     </unit>
     <unit id="z7J2YAC" name="u2f_two_factor">
@@ -8522,7 +8522,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>u2f_two_factor</source>
-        <target>Security key (U2F)</target>
+        <target>Chave de segurança (U2F)</target>
       </segment>
     </unit>
     <unit id="cjWCMi4" name="google">
@@ -8538,7 +8538,7 @@ Element 3</target>
     <unit id="agByADP" name="tfa.provider.webauthn_two_factor_provider">
       <segment state="translated">
         <source>tfa.provider.webauthn_two_factor_provider</source>
-        <target>Security key</target>
+        <target>Chave de segurança</target>
       </segment>
     </unit>
     <unit id="ELfxZWW" name="tfa.provider.google">
@@ -8548,7 +8548,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>tfa.provider.google</source>
-        <target>Authenticator app</target>
+        <target>Aplicativo autenticador</target>
       </segment>
     </unit>
     <unit id="fGkpjYW" name="Login successful">
@@ -8558,7 +8558,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>Login successful</source>
-        <target>Login successful</target>
+        <target>Login bem-sucedido</target>
       </segment>
     </unit>
     <unit id="KSHVrbr" name="log.type.exception">
@@ -8568,7 +8568,7 @@ Element 3</target>
       </notes>
       <segment state="final">
         <source>log.type.exception</source>
-        <target>Unhandled exception (obsolete)</target>
+        <target>Exceção não tratada (obsoleta)</target>
       </segment>
     </unit>
     <unit id="WQhfpc7" name="log.type.user_login">
@@ -8578,7 +8578,7 @@ Element 3</target>
       </notes>
       <segment state="final">
         <source>log.type.user_login</source>
-        <target>User login</target>
+        <target>Login do usuário</target>
       </segment>
     </unit>
     <unit id="4BmkRRr" name="log.type.user_logout">
@@ -8588,7 +8588,7 @@ Element 3</target>
       </notes>
       <segment state="final">
         <source>log.type.user_logout</source>
-        <target>User logout</target>
+        <target>Logout do usuário</target>
       </segment>
     </unit>
     <unit id="XWCQytQ" name="log.type.unknown">
@@ -8598,7 +8598,7 @@ Element 3</target>
       </notes>
       <segment state="final">
         <source>log.type.unknown</source>
-        <target>Unknown</target>
+        <target>Desconhecido</target>
       </segment>
     </unit>
     <unit id="Jz8fGbI" name="log.type.element_created">
@@ -8608,7 +8608,7 @@ Element 3</target>
       </notes>
       <segment state="final">
         <source>log.type.element_created</source>
-        <target>Element created</target>
+        <target>Elemento criado</target>
       </segment>
     </unit>
     <unit id="zrdG.Jf" name="log.type.element_edited">
@@ -8618,7 +8618,7 @@ Element 3</target>
       </notes>
       <segment state="final">
         <source>log.type.element_edited</source>
-        <target>Element edited</target>
+        <target>Elemento editado</target>
       </segment>
     </unit>
     <unit id="7U9wURa" name="log.type.element_deleted">
@@ -8628,7 +8628,7 @@ Element 3</target>
       </notes>
       <segment state="final">
         <source>log.type.element_deleted</source>
-        <target>Element deleted</target>
+        <target>Elemento excluído</target>
       </segment>
     </unit>
     <unit id="_2FIROZ" name="log.type.database_updated">
@@ -8638,7 +8638,7 @@ Element 3</target>
       </notes>
       <segment state="final">
         <source>log.type.database_updated</source>
-        <target>Database updated</target>
+        <target>Banco de dados atualizado</target>
       </segment>
     </unit>
     <unit id="TgP5PEM" name="perm.revert_elements">
@@ -8647,7 +8647,7 @@ Element 3</target>
       </notes>
       <segment state="final">
         <source>perm.revert_elements</source>
-        <target>Revert element</target>
+        <target>Reverter elemento</target>
       </segment>
     </unit>
     <unit id=".9EUOEX" name="perm.show_history">
@@ -8656,7 +8656,7 @@ Element 3</target>
       </notes>
       <segment state="final">
         <source>perm.show_history</source>
-        <target>Show history</target>
+        <target>Mostrar histórico</target>
       </segment>
     </unit>
     <unit id="AuMDjJU" name="perm.tools.lastActivity">
@@ -8665,7 +8665,7 @@ Element 3</target>
       </notes>
       <segment state="final">
         <source>perm.tools.lastActivity</source>
-        <target>Show last activity</target>
+        <target>Mostrar última atividade</target>
       </segment>
     </unit>
     <unit id="6LtH69E" name="perm.tools.timeTravel">
@@ -8674,7 +8674,7 @@ Element 3</target>
       </notes>
       <segment state="final">
         <source>perm.tools.timeTravel</source>
-        <target>Show old element versions (time travel)</target>
+        <target>Mostrar versões antigas do elemento (linha do tempo)</target>
       </segment>
     </unit>
     <unit id="tyCC1qL" name="tfa_u2f.key_added_successful">
@@ -8683,7 +8683,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>tfa_u2f.key_added_successful</source>
-        <target>Security key added successfully.</target>
+        <target>Chave de segurança adicionada com sucesso.</target>
       </segment>
     </unit>
     <unit id="VhxhtYo" name="Username">
@@ -8692,7 +8692,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>Username</source>
-        <target>Username</target>
+        <target>Nome de usuário</target>
       </segment>
     </unit>
     <unit id="gDVCAxj" name="log.type.security.google_disabled">
@@ -8701,7 +8701,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>log.type.security.google_disabled</source>
-        <target>Authenticator App disabled</target>
+        <target>Aplicativo autenticador desativado</target>
       </segment>
     </unit>
     <unit id="XFvvUtc" name="log.type.security.u2f_removed">
@@ -8710,7 +8710,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>log.type.security.u2f_removed</source>
-        <target>Security key removed</target>
+        <target>Chave de segurança removida</target>
       </segment>
     </unit>
     <unit id="eZgT4MC" name="log.type.security.u2f_added">
@@ -8719,7 +8719,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>log.type.security.u2f_added</source>
-        <target>Security key added</target>
+        <target>Chave de segurança adicionada</target>
       </segment>
     </unit>
     <unit id="t7d1Q.4" name="log.type.security.backup_keys_reset">
@@ -8728,7 +8728,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>log.type.security.backup_keys_reset</source>
-        <target>Backup keys regenerated</target>
+        <target>Chaves de backup regeneradas</target>
       </segment>
     </unit>
     <unit id="RF1.KEr" name="log.type.security.google_enabled">
@@ -8737,7 +8737,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>log.type.security.google_enabled</source>
-        <target>Authenticator App enabled</target>
+        <target>Aplicativo autenticador ativado</target>
       </segment>
     </unit>
     <unit id="LnGIxBi" name="log.type.security.password_changed">
@@ -8746,7 +8746,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>log.type.security.password_changed</source>
-        <target>Password changed</target>
+        <target>Senha alterada</target>
       </segment>
     </unit>
     <unit id="WTGQZj_" name="log.type.security.trusted_device_reset">
@@ -8755,7 +8755,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>log.type.security.trusted_device_reset</source>
-        <target>Trusted devices resetted</target>
+        <target>Dispositivos confiáveis ​​redefinidos</target>
       </segment>
     </unit>
     <unit id="a.Le1i0" name="log.type.collection_element_deleted">
@@ -8764,7 +8764,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>log.type.collection_element_deleted</source>
-        <target>Element of Collection deleted</target>
+        <target>Elemento da coleção excluído</target>
       </segment>
     </unit>
     <unit id="WbkRTGh" name="log.type.security.password_reset">
@@ -8773,7 +8773,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>log.type.security.password_reset</source>
-        <target>Password reset</target>
+        <target>Senha redefinida</target>
       </segment>
     </unit>
     <unit id="6FyyN30" name="log.type.security.2fa_admin_reset">
@@ -8782,7 +8782,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>log.type.security.2fa_admin_reset</source>
-        <target>Two Factor Reset by Administrator</target>
+        <target>Redefinição de dois fatores pelo administrador</target>
       </segment>
     </unit>
     <unit id="gV_X19k" name="log.type.user_not_allowed">
@@ -8791,7 +8791,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>log.type.user_not_allowed</source>
-        <target>Unauthorized access attempt</target>
+        <target>Tentativa de acesso não autorizado</target>
       </segment>
     </unit>
     <unit id="cTiYmSE" name="log.database_updated.success">
@@ -8800,7 +8800,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>log.database_updated.success</source>
-        <target>Success</target>
+        <target>Sucesso</target>
       </segment>
     </unit>
     <unit id="De5BR6V" name="label_options.barcode_type.2D">
@@ -8827,7 +8827,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.part.parameters</source>
-        <target>Parameters</target>
+        <target>Parâmetros</target>
       </segment>
     </unit>
     <unit id="LocDEF1" name="perm.attachment_show_private">
@@ -8836,7 +8836,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.attachment_show_private</source>
-        <target>View private attachments</target>
+        <target>Visualizar anexos privados</target>
       </segment>
     </unit>
     <unit id="honRcmT" name="perm.tools.label_scanner">
@@ -8845,7 +8845,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.tools.label_scanner</source>
-        <target>Label scanner</target>
+        <target>Leitor de etiquetas</target>
       </segment>
     </unit>
     <unit id="YRDDkNh" name="perm.self.read_profiles">
@@ -8854,7 +8854,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.self.read_profiles</source>
-        <target>Read profiles</target>
+        <target>Ler perfis</target>
       </segment>
     </unit>
     <unit id="uFIXx7j" name="perm.self.create_profiles">
@@ -8863,7 +8863,7 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.self.create_profiles</source>
-        <target>Create profiles</target>
+        <target>Criar perfis</target>
       </segment>
     </unit>
     <unit id="H5lzk33" name="perm.labels.use_twig">
@@ -8872,667 +8872,667 @@ Element 3</target>
       </notes>
       <segment state="translated">
         <source>perm.labels.use_twig</source>
-        <target>Use twig mode</target>
+        <target>Usar o modo Twig</target>
       </segment>
     </unit>
     <unit id="iXxuTa3" name="label_profile.showInDropdown">
       <segment state="translated">
         <source>label_profile.showInDropdown</source>
-        <target>Show in quick select</target>
+        <target>Mostrar na seleção rápida</target>
       </segment>
     </unit>
     <unit id="bgHCh2E" name="group.edit.enforce_2fa">
       <segment state="translated">
         <source>group.edit.enforce_2fa</source>
-        <target>Enforce Two-factor authentication (2FA)</target>
+        <target>Aplicar autenticação de dois fatores (2FA)</target>
       </segment>
     </unit>
     <unit id="uxw7_77" name="group.edit.enforce_2fa.help">
       <segment state="translated">
         <source>group.edit.enforce_2fa.help</source>
-        <target>If this option is enabled, every direct member of this group, has to configure at least one second-factor for authentication. Recommended for administrative groups with much permissions.</target>
+        <target>Se esta opção estiver habilitada, cada membro direto deste grupo deverá configurar pelo menos um segundo fator para autenticação. Recomendado para grupos administrativos com muitas permissões.</target>
       </segment>
     </unit>
     <unit id="O2l2jsJ" name="selectpicker.empty">
       <segment state="translated">
         <source>selectpicker.empty</source>
-        <target>Nothing selected</target>
+        <target>Nada selecionado</target>
       </segment>
     </unit>
     <unit id="NwsYm0P" name="selectpicker.nothing_selected">
       <segment state="translated">
         <source>selectpicker.nothing_selected</source>
-        <target>Nothing selected</target>
+        <target>Nada selecionado</target>
       </segment>
     </unit>
     <unit id="0VKsxz3" name="entity.delete.must_not_contain_parts">
       <segment state="translated">
         <source>entity.delete.must_not_contain_parts</source>
-        <target>Element "%PATH%" still contains parts! You have to move the parts, to be able to delete this element.</target>
+        <target>O elemento "%PATH%" ainda contém peças! Você precisa mover as peças para poder excluir este elemento.</target>
       </segment>
     </unit>
     <unit id="1hxhr3b" name="entity.delete.must_not_contain_attachments">
       <segment state="translated">
         <source>entity.delete.must_not_contain_attachments</source>
-        <target>Attachment type still contains attachments. Change their type, to be able to delete this attachment type.</target>
+        <target>O tipo de anexo ainda contém anexos. Altere o tipo, para poder excluir este tipo de anexo.</target>
       </segment>
     </unit>
     <unit id="95i8XQ4" name="entity.delete.must_not_contain_prices">
       <segment state="translated">
         <source>entity.delete.must_not_contain_prices</source>
-        <target>Currency still contains price details. You have to change their currency to be able to delete this element.</target>
+        <target>A moeda ainda contém detalhes de preço. Você precisa alterar a moeda para poder excluir este elemento.</target>
       </segment>
     </unit>
     <unit id="nak8YJ9" name="entity.delete.must_not_contain_users">
       <segment state="translated">
         <source>entity.delete.must_not_contain_users</source>
-        <target>Users still uses this group! Change their group, to be able to delete this group.</target>
+        <target>Os usuários ainda usam este grupo! Altere o grupo para poder excluir este grupo.</target>
       </segment>
     </unit>
     <unit id="6ud5yrD" name="part.table.edit">
       <segment state="translated">
         <source>part.table.edit</source>
-        <target>Edit</target>
+        <target>Editar</target>
       </segment>
     </unit>
     <unit id="DachcxN" name="part.table.edit.title">
       <segment state="translated">
         <source>part.table.edit.title</source>
-        <target>Edit part</target>
+        <target>Editar peça</target>
       </segment>
     </unit>
     <unit id="w3XOUoO" name="part_list.action.action.title">
       <segment state="translated">
         <source>part_list.action.action.title</source>
-        <target>Select action</target>
+        <target>Selecionar ação</target>
       </segment>
     </unit>
     <unit id="Fc.1rpX" name="part_list.action.action.group.favorite">
       <segment state="translated">
         <source>part_list.action.action.group.favorite</source>
-        <target>Favorite status</target>
+        <target>Status favorito</target>
       </segment>
     </unit>
     <unit id="s2Dybnd" name="part_list.action.action.favorite">
       <segment state="translated">
         <source>part_list.action.action.favorite</source>
-        <target>Favorite</target>
+        <target>Favorito</target>
       </segment>
     </unit>
     <unit id="oRXo8cB" name="part_list.action.action.unfavorite">
       <segment state="translated">
         <source>part_list.action.action.unfavorite</source>
-        <target>Unfavorite</target>
+        <target>Desfavorito</target>
       </segment>
     </unit>
     <unit id="sbuGwh6" name="part_list.action.action.group.change_field">
       <segment state="translated">
         <source>part_list.action.action.group.change_field</source>
-        <target>Change field</target>
+        <target>Alterar campo</target>
       </segment>
     </unit>
     <unit id="hk8FMXL" name="part_list.action.action.change_category">
       <segment state="translated">
         <source>part_list.action.action.change_category</source>
-        <target>Change category</target>
+        <target>Alterar categoria</target>
       </segment>
     </unit>
     <unit id="1013DFk" name="part_list.action.action.change_footprint">
       <segment state="translated">
         <source>part_list.action.action.change_footprint</source>
-        <target>Change footprint</target>
+        <target>Alterar footprint</target>
       </segment>
     </unit>
     <unit id="CPEbRo." name="part_list.action.action.change_manufacturer">
       <segment state="translated">
         <source>part_list.action.action.change_manufacturer</source>
-        <target>Change manufacturer</target>
+        <target>Alterar fabricante</target>
       </segment>
     </unit>
     <unit id="hQT5qln" name="part_list.action.action.change_unit">
       <segment state="translated">
         <source>part_list.action.action.change_unit</source>
-        <target>Change part unit</target>
+        <target>Alterar unidade da peça</target>
       </segment>
     </unit>
     <unit id="CfQo7ZT" name="part_list.action.action.delete">
       <segment state="translated">
         <source>part_list.action.action.delete</source>
-        <target>Delete</target>
+        <target>Excluir</target>
       </segment>
     </unit>
     <unit id="Ev0Hfc2" name="part_list.action.submit">
       <segment state="translated">
         <source>part_list.action.submit</source>
-        <target>Submit</target>
+        <target>Enviar</target>
       </segment>
     </unit>
     <unit id="gaoMsrY" name="part_list.action.part_count">
       <segment state="translated">
         <source>part_list.action.part_count</source>
-        <target>%count% parts selected!</target>
+        <target>%count% peças selecionadas!</target>
       </segment>
     </unit>
     <unit id="FhdheZY" name="company.edit.quick.website">
       <segment state="translated">
         <source>company.edit.quick.website</source>
-        <target>Open website</target>
+        <target>Abrir site</target>
       </segment>
     </unit>
     <unit id="KZ1Eck4" name="company.edit.quick.email">
       <segment state="translated">
         <source>company.edit.quick.email</source>
-        <target>Send email</target>
+        <target>Enviar e-mail</target>
       </segment>
     </unit>
     <unit id="r2diIQ6" name="company.edit.quick.phone">
       <segment state="translated">
         <source>company.edit.quick.phone</source>
-        <target>Call phone</target>
+        <target>Ligar para telefone</target>
       </segment>
     </unit>
     <unit id="siE4EDy" name="company.edit.quick.fax">
       <segment state="translated">
         <source>company.edit.quick.fax</source>
-        <target>Send fax</target>
+        <target>Enviar fax</target>
       </segment>
     </unit>
     <unit id="4kMwsyh" name="company.fax_number.placeholder">
       <segment state="translated">
         <source>company.fax_number.placeholder</source>
-        <target>e.g. +49 1234 567890</target>
+        <target>ex.: +49 1234 567890</target>
       </segment>
     </unit>
     <unit id="4vsXT3p" name="part.edit.save_and_clone">
       <segment state="translated">
         <source>part.edit.save_and_clone</source>
-        <target>Save and clone</target>
+        <target>Salvar e clonar</target>
       </segment>
     </unit>
     <unit id="XLEAK5C" name="validator.file_ext_not_allowed">
       <segment state="translated">
         <source>validator.file_ext_not_allowed</source>
-        <target>File extension not allowed for this attachment type.</target>
+        <target>Extensão de arquivo não permitida para este tipo de anexo.</target>
       </segment>
     </unit>
     <unit id="U1HFX19" name="tools.reel_calc.title">
       <segment state="translated">
         <source>tools.reel_calc.title</source>
-        <target>SMD Reel calculator</target>
+        <target>Calculadora de bobina SMD</target>
       </segment>
     </unit>
     <unit id="WfFOK.8" name="tools.reel_calc.inner_dia">
       <segment state="translated">
         <source>tools.reel_calc.inner_dia</source>
-        <target>Inner diameter</target>
+        <target>Diâmetro interno</target>
       </segment>
     </unit>
     <unit id="JEZvxKV" name="tools.reel_calc.outer_dia">
       <segment state="translated">
         <source>tools.reel_calc.outer_dia</source>
-        <target>Outer diameter</target>
+        <target>Diâmetro externo</target>
       </segment>
     </unit>
     <unit id="MevS6ej" name="tools.reel_calc.tape_thick">
       <segment state="translated">
         <source>tools.reel_calc.tape_thick</source>
-        <target>Tape thickness</target>
+        <target>Espessura da fita</target>
       </segment>
     </unit>
     <unit id="eqy7OUh" name="tools.reel_calc.part_distance">
       <segment state="translated">
         <source>tools.reel_calc.part_distance</source>
-        <target>Part distance</target>
+        <target>Distância da peça</target>
       </segment>
     </unit>
     <unit id="avUYTF3" name="tools.reel_calc.update">
       <segment state="translated">
         <source>tools.reel_calc.update</source>
-        <target>Update</target>
+        <target>Atualizar</target>
       </segment>
     </unit>
     <unit id="xVGNyjY" name="tools.reel_calc.parts_per_meter">
       <segment state="translated">
         <source>tools.reel_calc.parts_per_meter</source>
-        <target>Parts per meter</target>
+        <target>Peças por metro</target>
       </segment>
     </unit>
     <unit id="Z4Z3NHc" name="tools.reel_calc.result_length">
       <segment state="translated">
         <source>tools.reel_calc.result_length</source>
-        <target>Tape length</target>
+        <target>Comprimento da fita</target>
       </segment>
     </unit>
     <unit id="KGgSvdN" name="tools.reel_calc.result_amount">
       <segment state="translated">
         <source>tools.reel_calc.result_amount</source>
-        <target>Approx. parts count</target>
+        <target>Contagem aproximada de peças</target>
       </segment>
     </unit>
     <unit id="d2KFRC_" name="tools.reel_calc.outer_greater_inner_error">
       <segment state="translated">
         <source>tools.reel_calc.outer_greater_inner_error</source>
-        <target>Error: Outer diameter must be greater than inner diameter!</target>
+        <target>Erro: O diâmetro externo deve ser maior que o diâmetro interno!</target>
       </segment>
     </unit>
     <unit id="ideVnu7" name="tools.reel_calc.missing_values.error">
       <segment state="translated">
         <source>tools.reel_calc.missing_values.error</source>
-        <target>Please fill in all values!</target>
+        <target>Preencha todos os valores!</target>
       </segment>
     </unit>
     <unit id="MjKRZmy" name="tools.reel_calc.load_preset">
       <segment state="translated">
         <source>tools.reel_calc.load_preset</source>
-        <target>Load preset</target>
+        <target>Carregar predefinição</target>
       </segment>
     </unit>
     <unit id="CdphPiM" name="tools.reel_calc.explanation">
       <segment state="translated">
         <source>tools.reel_calc.explanation</source>
-        <target>This calculator gives you an estimation, how many parts are remaining on an SMD reel. Measure the noted the dimensions on the reel (or use some of the presets) and click "Update" to get an result.</target>
+        <target>Esta calculadora fornece uma estimativa de quantas peças restam em uma bobina SMD. Meça as dimensões anotadas na bobina (ou use alguma das predefinições) e clique em "Atualizar" para obter um resultado.</target>
       </segment>
     </unit>
     <unit id="21dEh63" name="perm.tools.reel_calculator">
       <segment state="translated">
         <source>perm.tools.reel_calculator</source>
-        <target>SMD Reel calculator</target>
+        <target>Calculadora de bobina SMD</target>
       </segment>
     </unit>
     <unit id="mTGB4XK" name="tree.tools.tools.reel_calculator">
       <segment state="translated">
         <source>tree.tools.tools.reel_calculator</source>
-        <target>SMD Reel calculator</target>
+        <target>Calculadora de bobina SMD</target>
       </segment>
     </unit>
     <unit id="Y3Vpp8G" name="user.pw_change_needed.flash">
       <segment state="translated">
         <source>user.pw_change_needed.flash</source>
-        <target>Your password needs to be changed! Please set a new password.</target>
+        <target>Sua senha precisa ser alterada! Defina uma nova senha.</target>
       </segment>
     </unit>
     <unit id="x98ftIM" name="tree.root_node.text">
       <segment state="translated">
         <source>tree.root_node.text</source>
-        <target>Root node</target>
+        <target>Nó raiz</target>
       </segment>
     </unit>
     <unit id="2LkM7pn" name="part_list.action.select_null">
       <segment state="translated">
         <source>part_list.action.select_null</source>
-        <target>Empty element</target>
+        <target>Elemento vazio</target>
       </segment>
     </unit>
     <unit id=".X2zJdC" name="part_list.action.delete-title">
       <segment state="translated">
         <source>part_list.action.delete-title</source>
-        <target>Do you really want to delete these parts?</target>
+        <target>Deseja realmente excluir estas peças?</target>
       </segment>
     </unit>
     <unit id="njR3m9K" name="part_list.action.delete-message">
       <segment state="translated">
         <source>part_list.action.delete-message</source>
-        <target>These parts and any associated information (like attachments, price information, etc.) will be deleted. This can not be undone!</target>
+        <target>Estas peças e quaisquer informações associadas (como anexos, informações de preço, etc.) serão excluídas. Isso não pode ser desfeito!</target>
       </segment>
     </unit>
     <unit id="iprEHvW" name="part.table.actions.success">
       <segment state="translated">
         <source>part.table.actions.success</source>
-        <target>Actions finished successfully.</target>
+        <target>Ações concluídas com sucesso.</target>
       </segment>
     </unit>
     <unit id="WUDnXcT" name="attachment.edit.delete.confirm">
       <segment state="translated">
         <source>attachment.edit.delete.confirm</source>
-        <target>Do you really want to delete this attachment?</target>
+        <target>Deseja realmente deseja excluir este anexo?</target>
       </segment>
     </unit>
     <unit id="B8Ch_oU" name="filter.text_constraint.value.operator.EQ">
       <segment state="translated">
         <source>filter.text_constraint.value.operator.EQ</source>
-        <target>Is</target>
+        <target>É</target>
       </segment>
     </unit>
     <unit id="m8gXJmo" name="filter.text_constraint.value.operator.NEQ">
       <segment state="translated">
         <source>filter.text_constraint.value.operator.NEQ</source>
-        <target>Is not</target>
+        <target>Não é</target>
       </segment>
     </unit>
     <unit id="QCi4ct2" name="filter.text_constraint.value.operator.STARTS">
       <segment state="translated">
         <source>filter.text_constraint.value.operator.STARTS</source>
-        <target>Starts with</target>
+        <target>Começa com</target>
       </segment>
     </unit>
     <unit id="n3YhIhU" name="filter.text_constraint.value.operator.CONTAINS">
       <segment state="translated">
         <source>filter.text_constraint.value.operator.CONTAINS</source>
-        <target>Contains</target>
+        <target>Contém</target>
       </segment>
     </unit>
     <unit id="7HLaYeS" name="filter.text_constraint.value.operator.ENDS">
       <segment state="translated">
         <source>filter.text_constraint.value.operator.ENDS</source>
-        <target>Ends with</target>
+        <target>Termina com</target>
       </segment>
     </unit>
     <unit id="ZQxfZP0" name="filter.text_constraint.value.operator.LIKE">
       <segment state="translated">
         <source>filter.text_constraint.value.operator.LIKE</source>
-        <target>LIKE pattern</target>
+        <target>Padrão LIKE</target>
       </segment>
     </unit>
     <unit id="E9SgBKh" name="filter.text_constraint.value.operator.REGEX">
       <segment state="translated">
         <source>filter.text_constraint.value.operator.REGEX</source>
-        <target>Regular expression</target>
+        <target>Expressão regular</target>
       </segment>
     </unit>
     <unit id="YSbtFK8" name="filter.number_constraint.value.operator.BETWEEN">
       <segment state="translated">
         <source>filter.number_constraint.value.operator.BETWEEN</source>
-        <target>Between</target>
+        <target>Entre</target>
       </segment>
     </unit>
     <unit id="uArj6qn" name="filter.number_constraint.AND">
       <segment state="translated">
         <source>filter.number_constraint.AND</source>
-        <target>and</target>
+        <target>e</target>
       </segment>
     </unit>
     <unit id="ZMo..Ic" name="filter.entity_constraint.operator.EQ">
       <segment state="translated">
         <source>filter.entity_constraint.operator.EQ</source>
-        <target>Is (excluding children)</target>
+        <target>É (excluindo filhos)</target>
       </segment>
     </unit>
     <unit id="gkRF0GY" name="filter.entity_constraint.operator.NEQ">
       <segment state="translated">
         <source>filter.entity_constraint.operator.NEQ</source>
-        <target>Is not (excluding children)</target>
+        <target>Não é (excluindo filhos)</target>
       </segment>
     </unit>
     <unit id="w846rID" name="filter.entity_constraint.operator.INCLUDING_CHILDREN">
       <segment state="translated">
         <source>filter.entity_constraint.operator.INCLUDING_CHILDREN</source>
-        <target>Is (including children)</target>
+        <target>É (incluindo filhos)</target>
       </segment>
     </unit>
     <unit id="LSAhDQ6" name="filter.entity_constraint.operator.EXCLUDING_CHILDREN">
       <segment state="translated">
         <source>filter.entity_constraint.operator.EXCLUDING_CHILDREN</source>
-        <target>Is not (including children)</target>
+        <target>Não é (incluindo filhos)</target>
       </segment>
     </unit>
     <unit id="JFqHGlx" name="part.filter.dbId">
       <segment state="translated">
         <source>part.filter.dbId</source>
-        <target>Database ID</target>
+        <target>ID do banco de dados</target>
       </segment>
     </unit>
     <unit id="smzf9vn" name="filter.tags_constraint.operator.ANY">
       <segment state="translated">
         <source>filter.tags_constraint.operator.ANY</source>
-        <target>Any of the tags</target>
+        <target>Qualquer uma das tags</target>
       </segment>
     </unit>
     <unit id="eYdPDKM" name="filter.tags_constraint.operator.ALL">
       <segment state="translated">
         <source>filter.tags_constraint.operator.ALL</source>
-        <target>All the tags</target>
+        <target>Todas as tags</target>
       </segment>
     </unit>
     <unit id="vSthC2b" name="filter.tags_constraint.operator.NONE">
       <segment state="translated">
         <source>filter.tags_constraint.operator.NONE</source>
-        <target>None of the tags</target>
+        <target>Nenhuma das tags</target>
       </segment>
     </unit>
     <unit id="0KKZnWr" name="part.filter.lot_count">
       <segment state="translated">
         <source>part.filter.lot_count</source>
-        <target>Number of lots</target>
+        <target>Número de lotes</target>
       </segment>
     </unit>
     <unit id="LUwPNoD" name="part.filter.attachments_count">
       <segment state="translated">
         <source>part.filter.attachments_count</source>
-        <target>Number of attachments</target>
+        <target>Número de anexos</target>
       </segment>
     </unit>
     <unit id="oQmnwDq" name="part.filter.orderdetails_count">
       <segment state="translated">
         <source>part.filter.orderdetails_count</source>
-        <target>Number of order details</target>
+        <target>Número de detalhes do pedido</target>
       </segment>
     </unit>
     <unit id="EVZFWzr" name="part.filter.lotExpirationDate">
       <segment state="translated">
         <source>part.filter.lotExpirationDate</source>
-        <target>Lot expiration date</target>
+        <target>Data de validade do lote</target>
       </segment>
     </unit>
     <unit id="jcZuCCn" name="part.filter.lotNeedsRefill">
       <segment state="translated">
         <source>part.filter.lotNeedsRefill</source>
-        <target>Any lot needs refill</target>
+        <target>Qualquer lote precisa ser reabastecido</target>
       </segment>
     </unit>
     <unit id="qvGwmDf" name="part.filter.lotUnknwonAmount">
       <segment state="translated">
         <source>part.filter.lotUnknwonAmount</source>
-        <target>Any lot has unknown amount</target>
+        <target>Qualquer lote com valor desconhecido</target>
       </segment>
     </unit>
     <unit id="0wfsO9N" name="part.filter.attachmentName">
       <segment state="translated">
         <source>part.filter.attachmentName</source>
-        <target>Attachment name</target>
+        <target>Nome do anexo</target>
       </segment>
     </unit>
     <unit id="YcIyWEZ" name="filter.choice_constraint.operator.ANY">
       <segment state="translated">
         <source>filter.choice_constraint.operator.ANY</source>
-        <target>Any of</target>
+        <target>Qualquer um de</target>
       </segment>
     </unit>
     <unit id="Kofo3H8" name="filter.choice_constraint.operator.NONE">
       <segment state="translated">
         <source>filter.choice_constraint.operator.NONE</source>
-        <target>None of</target>
+        <target>Nenhum de</target>
       </segment>
     </unit>
     <unit id="IM9Phue" name="part.filter.amount_sum">
       <segment state="translated">
         <source>part.filter.amount_sum</source>
-        <target>Total amount</target>
+        <target>Valor total</target>
       </segment>
     </unit>
     <unit id="dRr__GR" name="filter.submit">
       <segment state="translated">
         <source>filter.submit</source>
-        <target>Update</target>
+        <target>Atualizar</target>
       </segment>
     </unit>
     <unit id="bREY95s" name="filter.discard">
       <segment state="translated">
         <source>filter.discard</source>
-        <target>Discard changes</target>
+        <target>Descartar alterações</target>
       </segment>
     </unit>
     <unit id="1ttX8Bu" name="filter.clear_filters">
       <segment state="translated">
         <source>filter.clear_filters</source>
-        <target>Clear all filters</target>
+        <target>Limpar todos os filtros</target>
       </segment>
     </unit>
     <unit id="VH1tHkH" name="filter.title">
       <segment state="translated">
         <source>filter.title</source>
-        <target>Filter</target>
+        <target>Filtro</target>
       </segment>
     </unit>
     <unit id="dkaI3LF" name="filter.parameter_value_constraint.operator.=">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.=</source>
-        <target>Typ. Value =</target>
+        <target>Valor típico =</target>
       </segment>
     </unit>
     <unit id="9wXdJPx" name="filter.parameter_value_constraint.operator.!=">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.!=</source>
-        <target>Typ. Value !=</target>
+        <target>Valor típico !=</target>
       </segment>
     </unit>
     <unit id="r4vDLAt" name="filter.parameter_value_constraint.operator.&lt;">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.&lt;</source>
-        <target>Typ. Value &lt;</target>
+        <target>Valor típico &lt;</target>
       </segment>
     </unit>
     <unit id="X9SA3UP" name="filter.parameter_value_constraint.operator.&gt;">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.&gt;</source>
-        <target>Typ. Value &gt;</target>
+        <target>Valor típico &gt;</target>
       </segment>
     </unit>
     <unit id="BQGaoQS" name="filter.parameter_value_constraint.operator.&lt;=">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.&lt;=</source>
-        <target>Typ. Value &lt;=</target>
+        <target>Valor típico &lt;=</target>
       </segment>
     </unit>
     <unit id="2ha3P6g" name="filter.parameter_value_constraint.operator.&gt;=">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.&gt;=</source>
-        <target>Typ. Value &gt;=</target>
+        <target>Valor típico &gt;=</target>
       </segment>
     </unit>
     <unit id="4DaBace" name="filter.parameter_value_constraint.operator.BETWEEN">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.BETWEEN</source>
-        <target>Typ. Value is between</target>
+        <target>Valor típico está entre</target>
       </segment>
     </unit>
     <unit id="YY0a_xD" name="filter.parameter_value_constraint.operator.IN_RANGE">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.IN_RANGE</source>
-        <target>In Value range</target>
+        <target>No intervalo de valores</target>
       </segment>
     </unit>
     <unit id="eOapK34" name="filter.parameter_value_constraint.operator.NOT_IN_RANGE">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.NOT_IN_RANGE</source>
-        <target>Not in Value range</target>
+        <target>Fora do intervalo de valores</target>
       </segment>
     </unit>
     <unit id="pt4FGaQ" name="filter.parameter_value_constraint.operator.GREATER_THAN_RANGE">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.GREATER_THAN_RANGE</source>
-        <target>Greater than Value range</target>
+        <target>Maior que o intervalo de valores</target>
       </segment>
     </unit>
     <unit id="FCRoT6l" name="filter.parameter_value_constraint.operator.GREATER_EQUAL_RANGE">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.GREATER_EQUAL_RANGE</source>
-        <target>Greater equal than Value range</target>
+        <target>Maior e igual ao intervalo de valores</target>
       </segment>
     </unit>
     <unit id="6T0tThe" name="filter.parameter_value_constraint.operator.LESS_THAN_RANGE">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.LESS_THAN_RANGE</source>
-        <target>Less than Value range</target>
+        <target>Menor que o intervalo de valores</target>
       </segment>
     </unit>
     <unit id="4ZMf_IM" name="filter.parameter_value_constraint.operator.LESS_EQUAL_RANGE">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.LESS_EQUAL_RANGE</source>
-        <target>Less equal than Value range</target>
+        <target>Menor e igual ao intervalo de valores</target>
       </segment>
     </unit>
     <unit id="Xo4sRNx" name="filter.parameter_value_constraint.operator.RANGE_IN_RANGE">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.RANGE_IN_RANGE</source>
-        <target>Range is completely in Value range</target>
+        <target>O intervalo está completamente dentro do intervalo de valores</target>
       </segment>
     </unit>
     <unit id="QuO2lCa" name="filter.parameter_value_constraint.operator.RANGE_INTERSECT_RANGE">
       <segment state="translated">
         <source>filter.parameter_value_constraint.operator.RANGE_INTERSECT_RANGE</source>
-        <target>Range intersects Value range</target>
+        <target>O intervalo intercepta o intervalo de valores</target>
       </segment>
     </unit>
     <unit id="rPjqQHt" name="filter.text_constraint.value">
       <segment state="translated">
         <source>filter.text_constraint.value</source>
-        <target>No value set</target>
+        <target>Nenhum valor definido</target>
       </segment>
     </unit>
     <unit id="urqPUa4" name="filter.number_constraint.value1">
       <segment state="translated">
         <source>filter.number_constraint.value1</source>
-        <target>No value set</target>
+        <target>Nenhum valor definido</target>
       </segment>
     </unit>
     <unit id="83UcOGT" name="filter.number_constraint.value2">
       <segment state="translated">
         <source>filter.number_constraint.value2</source>
-        <target>Maximum value</target>
+        <target>Valor máximo</target>
       </segment>
     </unit>
     <unit id="o4Y7ZHV" name="filter.datetime_constraint.value1">
       <segment state="translated">
         <source>filter.datetime_constraint.value1</source>
-        <target>No datetime set</target>
+        <target>Nenhuma data e hora definida</target>
       </segment>
     </unit>
     <unit id="VeC509M" name="filter.datetime_constraint.value2">
       <segment state="translated">
         <source>filter.datetime_constraint.value2</source>
-        <target>Maximum datetime</target>
+        <target>Data e hora máxima</target>
       </segment>
     </unit>
     <unit id="ieJB0q0" name="filter.constraint.add">
       <segment state="translated">
         <source>filter.constraint.add</source>
-        <target>Add constraint</target>
+        <target>Adicionar restrição</target>
       </segment>
     </unit>
     <unit id="4onmZoy" name="part.filter.parameters_count">
       <segment state="translated">
         <source>part.filter.parameters_count</source>
-        <target>Number of parameters</target>
+        <target>Número de parâmetros</target>
       </segment>
     </unit>
     <unit id="j_bx9XF" name="part.filter.lotDescription">
       <segment state="translated">
         <source>part.filter.lotDescription</source>
-        <target>Lot description</target>
+        <target>Descrição do lote</target>
       </segment>
     </unit>
     <unit id="4tHhDtU" name="parts_list.search.searching_for">
       <segment state="translated">
         <source>parts_list.search.searching_for</source>
-        <target>Searching parts with keyword &lt;b&gt;%keyword%&lt;/b&gt;</target>
+        <target>Pesquisando peças com a palavra-chave &lt;b&gt;%keyword%&lt;/b&gt;</target>
       </segment>
     </unit>
     <unit id="4vomKLa" name="parts_list.search_options.caption">
       <segment state="translated">
         <source>parts_list.search_options.caption</source>
-        <target>Enabled search options</target>
+        <target>Opções de pesquisa habilitadas</target>
       </segment>
     </unit>
     <unit id="sS3C5Op" name="attachment.table.element_type">
       <segment state="translated">
         <source>attachment.table.element_type</source>
-        <target>Associated element type</target>
+        <target>Tipo de elemento associado</target>
       </segment>
     </unit>
     <unit id="bUKtf8r" name="log.level.debug">
       <segment state="translated">
         <source>log.level.debug</source>
-        <target>Debug</target>
+        <target>Depuração</target>
       </segment>
     </unit>
     <unit id="AVh_JFf" name="log.level.info">
@@ -9544,121 +9544,121 @@ Element 3</target>
     <unit id="T6aQ4X7" name="log.level.notice">
       <segment state="translated">
         <source>log.level.notice</source>
-        <target>Notice</target>
+        <target>Aviso</target>
       </segment>
     </unit>
     <unit id="ME5rxVT" name="log.level.warning">
       <segment state="translated">
         <source>log.level.warning</source>
-        <target>Warning</target>
+        <target>Advertencia</target>
       </segment>
     </unit>
     <unit id="UCBSr7F" name="log.level.error">
       <segment state="translated">
         <source>log.level.error</source>
-        <target>Error</target>
+        <target>Erro</target>
       </segment>
     </unit>
     <unit id="PXQgX7H" name="log.level.critical">
       <segment state="translated">
         <source>log.level.critical</source>
-        <target>Critical</target>
+        <target>Crítico</target>
       </segment>
     </unit>
     <unit id=".wFLZ_K" name="log.level.alert">
       <segment state="translated">
         <source>log.level.alert</source>
-        <target>Alert</target>
+        <target>Alerta</target>
       </segment>
     </unit>
     <unit id="yd2X9mk" name="log.level.emergency">
       <segment state="translated">
         <source>log.level.emergency</source>
-        <target>Emergency</target>
+        <target>Emergência</target>
       </segment>
     </unit>
     <unit id="eBmwo.." name="log.type.security">
       <segment state="translated">
         <source>log.type.security</source>
-        <target>Security related event</target>
+        <target>Evento relacionado à segurança</target>
       </segment>
     </unit>
     <unit id="3FT0IxN" name="log.type.instock_changed">
       <segment state="translated">
         <source>log.type.instock_changed</source>
-        <target>[LEGACY] Instock changed</target>
+        <target>[LEGADO] Estoque alterado</target>
       </segment>
     </unit>
     <unit id="SzqSeed" name="log.target_id">
       <segment state="translated">
         <source>log.target_id</source>
-        <target>Target element ID</target>
+        <target>ID do elemento de destino</target>
       </segment>
     </unit>
     <unit id="e97FPsh" name="entity.info.parts_count_recursive">
       <segment state="translated">
         <source>entity.info.parts_count_recursive</source>
-        <target>Number of parts with this element or its sub elements</target>
+        <target>Número de peças com este elemento ou seus subelementos</target>
       </segment>
     </unit>
     <unit id="st92iWF" name="tools.server_infos.title">
       <segment state="translated">
         <source>tools.server_infos.title</source>
-        <target>Server info</target>
+        <target>Informações do servidor</target>
       </segment>
     </unit>
     <unit id="B_RYEFO" name="permission.preset.read_only">
       <segment state="translated">
         <source>permission.preset.read_only</source>
-        <target>Read-Only</target>
+        <target>Somente leitura</target>
       </segment>
     </unit>
     <unit id="wOn3EeK" name="permission.preset.read_only.desc">
       <segment state="translated">
         <source>permission.preset.read_only.desc</source>
-        <target>Only allow read operations on data</target>
+        <target>Permitir apenas operações de leitura nos dados</target>
       </segment>
     </unit>
     <unit id="4BBeDAC" name="permission.preset.all_inherit">
       <segment state="translated">
         <source>permission.preset.all_inherit</source>
-        <target>Inherit all</target>
+        <target>Herdar tudo</target>
       </segment>
     </unit>
     <unit id="VoA5r1Q" name="permission.preset.all_inherit.desc">
       <segment state="translated">
         <source>permission.preset.all_inherit.desc</source>
-        <target>Set all permissions to Inherit</target>
+        <target>Definir todas as permissões para Herdar</target>
       </segment>
     </unit>
     <unit id="1Qg6I62" name="permission.preset.all_forbid">
       <segment state="translated">
         <source>permission.preset.all_forbid</source>
-        <target>Forbid all</target>
+        <target>Proibir tudo</target>
       </segment>
     </unit>
     <unit id="5taCmpz" name="permission.preset.all_forbid.desc">
       <segment state="translated">
         <source>permission.preset.all_forbid.desc</source>
-        <target>Set all permissions to Forbid</target>
+        <target>Definir todas as permissões para Proibir</target>
       </segment>
     </unit>
     <unit id="zhkdmnH" name="permission.preset.all_allow">
       <segment state="translated">
         <source>permission.preset.all_allow</source>
-        <target>Allow all</target>
+        <target>Permitir tudo</target>
       </segment>
     </unit>
     <unit id="SWN9Es8" name="permission.preset.all_allow.desc">
       <segment state="translated">
         <source>permission.preset.all_allow.desc</source>
-        <target>Set all permissions to allow</target>
+        <target>Definir todas as permissões para Permitir</target>
       </segment>
     </unit>
     <unit id="3Ls3nOk" name="perm.server_infos">
       <segment state="translated">
         <source>perm.server_infos</source>
-        <target>Server info</target>
+        <target>Informações do servidor</target>
       </segment>
     </unit>
     <unit id="WhucTTA" name="permission.preset.editor">
@@ -9670,79 +9670,79 @@ Element 3</target>
     <unit id="y43.78W" name="permission.preset.editor.desc">
       <segment state="translated">
         <source>permission.preset.editor.desc</source>
-        <target>Allow changing parts and data structures</target>
+        <target>Permitir alteração de peças e estruturas de dados</target>
       </segment>
     </unit>
     <unit id="4b.u_RZ" name="permission.preset.admin">
       <segment state="translated">
         <source>permission.preset.admin</source>
-        <target>Admin</target>
+        <target>Administrador</target>
       </segment>
     </unit>
     <unit id="f9naaMC" name="permission.preset.admin.desc">
       <segment state="translated">
         <source>permission.preset.admin.desc</source>
-        <target>Allow administrative actions</target>
+        <target>Permitir ações administrativas</target>
       </segment>
     </unit>
     <unit id="oAaUPJv" name="permission.preset.button">
       <segment state="translated">
         <source>permission.preset.button</source>
-        <target>Apply preset</target>
+        <target>Aplicar predefinição</target>
       </segment>
     </unit>
     <unit id="ALbUX_X" name="perm.attachments.show_private">
       <segment state="translated">
         <source>perm.attachments.show_private</source>
-        <target>Show private attachments</target>
+        <target>Mostrar anexos privados</target>
       </segment>
     </unit>
     <unit id="og6x3bF" name="perm.attachments.list_attachments">
       <segment state="translated">
         <source>perm.attachments.list_attachments</source>
-        <target>Show list of all attachments</target>
+        <target>Mostrar lista de todos os anexos</target>
       </segment>
     </unit>
     <unit id="jnDXhpi" name="user.edit.permission_success">
       <segment state="translated">
         <source>user.edit.permission_success</source>
-        <target>Permission preset applied successfully. Check if the new permissions fit your needs.</target>
+        <target>Predefinição de permissão aplicada com sucesso. Verifique se as novas permissões atendem às suas necessidades.</target>
       </segment>
     </unit>
     <unit id="Yia.nsG" name="perm.group.data">
       <segment state="translated">
         <source>perm.group.data</source>
-        <target>Data</target>
+        <target>Dados</target>
       </segment>
     </unit>
     <unit id="OEVzOkv" name="part_list.action.action.group.needs_review">
       <segment state="translated">
         <source>part_list.action.action.group.needs_review</source>
-        <target>Needs Review</target>
+        <target>Revisão necessária</target>
       </segment>
     </unit>
     <unit id="nkoTW_w" name="part_list.action.action.set_needs_review">
       <segment state="translated">
         <source>part_list.action.action.set_needs_review</source>
-        <target>Set Needs Review Status</target>
+        <target>Definir status de revisão necessário</target>
       </segment>
     </unit>
     <unit id="ZzfGoRG" name="part_list.action.action.unset_needs_review">
       <segment state="translated">
         <source>part_list.action.action.unset_needs_review</source>
-        <target>Unset Needs Review Status</target>
+        <target>Desdefinir status de revisão necessário</target>
       </segment>
     </unit>
     <unit id="aX1_yDD" name="part.edit.ipn">
       <segment state="translated">
         <source>part.edit.ipn</source>
-        <target>Internal Part Number (IPN)</target>
+        <target>Número de peça interno (IPN)</target>
       </segment>
     </unit>
     <unit id="o3h1Z7K" name="part.ipn.not_defined">
       <segment state="translated">
         <source>part.ipn.not_defined</source>
-        <target>Not defined</target>
+        <target>Não definido</target>
       </segment>
     </unit>
     <unit id="JdUZFGE" name="part.table.ipn">
@@ -9754,43 +9754,43 @@ Element 3</target>
     <unit id="aXDzvb0" name="currency.edit.update_rate">
       <segment state="translated">
         <source>currency.edit.update_rate</source>
-        <target>Retrieve exchange rate</target>
+        <target>Recuperar taxa de câmbio</target>
       </segment>
     </unit>
     <unit id="FL56Dhc" name="currency.edit.exchange_rate_update.unsupported_currency">
       <segment state="translated">
         <source>currency.edit.exchange_rate_update.unsupported_currency</source>
-        <target>The currency is unsupported by the exchange rate provider. Check your exchange rate provider configuration.</target>
+        <target>A moeda não é suportada pelo provedor de taxa de câmbio. Verifique a configuração do seu provedor de taxa de câmbio.</target>
       </segment>
     </unit>
     <unit id="tNngoiX" name="currency.edit.exchange_rate_update.generic_error">
       <segment state="translated">
         <source>currency.edit.exchange_rate_update.generic_error</source>
-        <target>Unable to retrieve the exchange rate. Check your exchange rate provider configuration.</target>
+        <target>Não foi possível recuperar a taxa de câmbio. Verifique a configuração do seu provedor de taxa de câmbio.</target>
       </segment>
     </unit>
     <unit id="iS_rwUR" name="currency.edit.exchange_rate_updated.success">
       <segment state="translated">
         <source>currency.edit.exchange_rate_updated.success</source>
-        <target>Retrieved the exchange rate successfully.</target>
+        <target>Taxa de câmbio recuperada com sucesso.</target>
       </segment>
     </unit>
     <unit id="wZmvg7i" name="project.bom.quantity">
       <segment state="translated">
         <source>project.bom.quantity</source>
-        <target>BOM Qty.</target>
+        <target>Qtd. da lista técnica</target>
       </segment>
     </unit>
     <unit id="tLW4nD1" name="project.bom.mountnames">
       <segment state="translated">
         <source>project.bom.mountnames</source>
-        <target>Mount names</target>
+        <target>Nomes de montagem</target>
       </segment>
     </unit>
     <unit id="k8VdHwW" name="project.bom.name">
       <segment state="translated">
         <source>project.bom.name</source>
-        <target>Name</target>
+        <target>Nome</target>
       </segment>
     </unit>
     <unit id="zx5gcos" name="project.bom.comment">
