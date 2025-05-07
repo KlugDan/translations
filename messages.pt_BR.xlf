@@ -9796,625 +9796,625 @@ Elemento 3</target>
     <unit id="zx5gcos" name="project.bom.comment">
       <segment state="translated">
         <source>project.bom.comment</source>
-        <target>Notes</target>
+        <target>Observações</target>
       </segment>
     </unit>
     <unit id="JItWUQ4" name="project.bom.part">
       <segment state="translated">
         <source>project.bom.part</source>
-        <target>Part</target>
+        <target>Peça</target>
       </segment>
     </unit>
     <unit id="kGqIirz" name="project.bom.add_entry">
       <segment state="translated">
         <source>project.bom.add_entry</source>
-        <target>Add entry</target>
+        <target>Adicionar entrada</target>
       </segment>
     </unit>
     <unit id="21RVBkT" name="part_list.action.group.projects">
       <segment state="translated">
         <source>part_list.action.group.projects</source>
-        <target>Projects</target>
+        <target>Projetos</target>
       </segment>
     </unit>
     <unit id="BdrD6tU" name="part_list.action.projects.add_to_project">
       <segment state="translated">
         <source>part_list.action.projects.add_to_project</source>
-        <target>Add parts to project</target>
+        <target>Adicionar peças ao projeto</target>
       </segment>
     </unit>
     <unit id="uok31Te" name="project.bom.delete.confirm">
       <segment state="translated">
         <source>project.bom.delete.confirm</source>
-        <target>Do you really want to delete this BOM entry?</target>
+        <target>Deseja realmente excluir esta entrada na lista de materiais?</target>
       </segment>
     </unit>
     <unit id="hpPkHYF" name="project.add_parts_to_project">
       <segment state="translated">
         <source>project.add_parts_to_project</source>
-        <target>Add parts to project BOM</target>
+        <target>Adicionar peças à lista de materiais do projeto</target>
       </segment>
     </unit>
     <unit id="mauieYX" name="part.info.add_part_to_project">
       <segment state="translated">
         <source>part.info.add_part_to_project</source>
-        <target>Add this part to a project</target>
+        <target>Adicionar esta peça a um projeto</target>
       </segment>
     </unit>
     <unit id="5r.n1zf" name="project_bom_entry.label">
       <segment state="translated">
         <source>project_bom_entry.label</source>
-        <target>BOM entry</target>
+        <target>Entrada na lista de materiais</target>
       </segment>
     </unit>
     <unit id="jVfeA_3" name="project.edit.status">
       <segment state="translated">
         <source>project.edit.status</source>
-        <target>Project status</target>
+        <target>Status do projeto</target>
       </segment>
     </unit>
     <unit id="f_jo9RT" name="project.status.draft">
       <segment state="translated">
         <source>project.status.draft</source>
-        <target>Draft</target>
+        <target>Rascunho</target>
       </segment>
     </unit>
     <unit id="wEl7Ajo" name="project.status.planning">
       <segment state="translated">
         <source>project.status.planning</source>
-        <target>Planning</target>
+        <target>Planejamento</target>
       </segment>
     </unit>
     <unit id="o8UBkOp" name="project.status.in_production">
       <segment state="translated">
         <source>project.status.in_production</source>
-        <target>In production</target>
+        <target>Em produção</target>
       </segment>
     </unit>
     <unit id="Ug5nmCa" name="project.status.finished">
       <segment state="translated">
         <source>project.status.finished</source>
-        <target>Finished</target>
+        <target>Concluído</target>
       </segment>
     </unit>
     <unit id="aYomAkH" name="project.status.archived">
       <segment state="translated">
         <source>project.status.archived</source>
-        <target>Archived</target>
+        <target>Arquivado</target>
       </segment>
     </unit>
     <unit id="9GtmqC1" name="part.new_build_part.error.build_part_already_exists">
       <segment state="translated">
         <source>part.new_build_part.error.build_part_already_exists</source>
-        <target>The project already has a build part!</target>
+        <target>O projeto já possui uma peça de construção!</target>
       </segment>
     </unit>
     <unit id="9soO_kf" name="project.edit.associated_build_part">
       <segment state="translated">
         <source>project.edit.associated_build_part</source>
-        <target>Associated builds part</target>
+        <target>Peça de construções associada</target>
       </segment>
     </unit>
     <unit id="8Mu.T78" name="project.edit.associated_build_part.add">
       <segment state="translated">
         <source>project.edit.associated_build_part.add</source>
-        <target>Add builds part</target>
+        <target>Adicionar peça de construções</target>
       </segment>
     </unit>
     <unit id="sPdCBUl" name="project.edit.associated_build.hint">
       <segment state="translated">
         <source>project.edit.associated_build.hint</source>
-        <target>This part represents the builds of this project, which are stored somewhere.</target>
+        <target>Esta peça representa as construções deste projeto, que estão armazenadas em algum lugar.</target>
       </segment>
     </unit>
     <unit id="Cke2p4U" name="part.info.projectBuildPart.hint">
       <segment state="translated">
         <source>part.info.projectBuildPart.hint</source>
-        <target>This part represents the builds of the following project and is associated with it</target>
+        <target>Esta peça representa as construções do projeto seguinte e está associada a ele.</target>
       </segment>
     </unit>
     <unit id="yCR6rBb" name="part.is_build_part">
       <segment state="translated">
         <source>part.is_build_part</source>
-        <target>Is project builds part</target>
+        <target>É parte das construções do projeto</target>
       </segment>
     </unit>
     <unit id="dV.E0zI" name="project.info.title">
       <segment state="translated">
         <source>project.info.title</source>
-        <target>Project info</target>
+        <target>Informações do projeto</target>
       </segment>
     </unit>
     <unit id="LYURecm" name="project.info.bom_entries_count">
       <segment state="translated">
         <source>project.info.bom_entries_count</source>
-        <target>BOM entries</target>
+        <target>Entradas na lista de materiais</target>
       </segment>
     </unit>
     <unit id="YQN8E9O" name="project.info.sub_projects_count">
       <segment state="translated">
         <source>project.info.sub_projects_count</source>
-        <target>Subprojects</target>
+        <target>Subprojetos</target>
       </segment>
     </unit>
     <unit id="7nV.Cmd" name="project.info.bom_add_parts">
       <segment state="translated">
         <source>project.info.bom_add_parts</source>
-        <target>Add BOM entries</target>
+        <target>Adicionar entradas na lista de materiais</target>
       </segment>
     </unit>
     <unit id="mo8KjGV" name="project.info.info.label">
       <segment state="translated">
         <source>project.info.info.label</source>
-        <target>Info</target>
+        <target>Informações</target>
       </segment>
     </unit>
     <unit id="I4bqSmB" name="project.info.sub_projects.label">
       <segment state="translated">
         <source>project.info.sub_projects.label</source>
-        <target>Subprojects</target>
+        <target>Subprojetos</target>
       </segment>
     </unit>
     <unit id="_baDUqB" name="project.bom.price">
       <segment state="translated">
         <source>project.bom.price</source>
-        <target>Price</target>
+        <target>Preço</target>
       </segment>
     </unit>
     <unit id="8tP3lQI" name="part.info.withdraw_modal.title.withdraw">
       <segment state="translated">
         <source>part.info.withdraw_modal.title.withdraw</source>
-        <target>Withdraw parts from lot</target>
+        <target>Retirar peças do lote</target>
       </segment>
     </unit>
     <unit id="tJ6JCIJ" name="part.info.withdraw_modal.title.add">
       <segment state="translated">
         <source>part.info.withdraw_modal.title.add</source>
-        <target>Add parts to lot</target>
+        <target>Adicionar peças ao lote</target>
       </segment>
     </unit>
     <unit id="7zTowlz" name="part.info.withdraw_modal.title.move">
       <segment state="translated">
         <source>part.info.withdraw_modal.title.move</source>
-        <target>Move parts from lot to another lot</target>
+        <target>Mover peças de um lote para outro</target>
       </segment>
     </unit>
     <unit id="nCkMC62" name="part.info.withdraw_modal.amount">
       <segment state="translated">
         <source>part.info.withdraw_modal.amount</source>
-        <target>Amount</target>
+        <target>Quantidade</target>
       </segment>
     </unit>
     <unit id="XnFMx7Q" name="part.info.withdraw_modal.move_to">
       <segment state="translated">
         <source>part.info.withdraw_modal.move_to</source>
-        <target>Move to</target>
+        <target>Mover para</target>
       </segment>
     </unit>
     <unit id="877WfbI" name="part.info.withdraw_modal.comment">
       <segment state="translated">
         <source>part.info.withdraw_modal.comment</source>
-        <target>Comment</target>
+        <target>Comentário</target>
       </segment>
     </unit>
     <unit id="ep3MezY" name="part.info.withdraw_modal.comment.hint">
       <segment state="translated">
         <source>part.info.withdraw_modal.comment.hint</source>
-        <target>You can set a comment here describing why you are doing this operation (e.g. for what you need the parts). This info will be saved in the log.</target>
+        <target>Você pode definir um comentário aqui descrevendo o motivo desta operação (por exemplo, para que você precisa das peças). Essas informações serão salvas no log.</target>
       </segment>
     </unit>
     <unit id="g7CtdZo" name="modal.close">
       <segment state="translated">
         <source>modal.close</source>
-        <target>Close</target>
+        <target>Fechar</target>
       </segment>
     </unit>
     <unit id="Rbif1MT" name="modal.submit">
       <segment state="translated">
         <source>modal.submit</source>
-        <target>Submit</target>
+        <target>Enviar</target>
       </segment>
     </unit>
     <unit id="O8XtgLl" name="part.withdraw.success">
       <segment state="translated">
         <source>part.withdraw.success</source>
-        <target>Added/Moved/Withdrawn parts successfully.</target>
+        <target>Peças adicionadas/movidas/retiradas com sucesso.</target>
       </segment>
     </unit>
     <unit id="WwM2Fpg" name="perm.parts_stock">
       <segment state="translated">
         <source>perm.parts_stock</source>
-        <target>Parts Stock</target>
+        <target>Estoque de Peças</target>
       </segment>
     </unit>
     <unit id="M7HDTEL" name="perm.parts_stock.withdraw">
       <segment state="translated">
         <source>perm.parts_stock.withdraw</source>
-        <target>Withdraw parts from stock</target>
+        <target>Retirar peças do estoque</target>
       </segment>
     </unit>
     <unit id="TDv2gPD" name="perm.parts_stock.add">
       <segment state="translated">
         <source>perm.parts_stock.add</source>
-        <target>Add parts to stock</target>
+        <target>Adicionar peças ao estoque</target>
       </segment>
     </unit>
     <unit id="khu57GR" name="perm.parts_stock.move">
       <segment state="translated">
         <source>perm.parts_stock.move</source>
-        <target>Move parts between lots</target>
+        <target>Mover peças entre lotes</target>
       </segment>
     </unit>
     <unit id="Mx1qtMm" name="user.permissions_schema_updated">
       <segment state="translated">
         <source>user.permissions_schema_updated</source>
-        <target>The permission schema of your user were upgraded to the latest version.</target>
+        <target>O esquema de permissões do seu usuário foi atualizado para a versão mais recente.</target>
       </segment>
     </unit>
     <unit id="ifASis5" name="log.type.part_stock_changed">
       <segment state="translated">
         <source>log.type.part_stock_changed</source>
-        <target>Part Stock changed</target>
+        <target>Estoque de peças alterado</target>
       </segment>
     </unit>
     <unit id="qjWMv5E" name="log.part_stock_changed.withdraw">
       <segment state="translated">
         <source>log.part_stock_changed.withdraw</source>
-        <target>Stock withdrawn</target>
+        <target>Estoque retirado</target>
       </segment>
     </unit>
     <unit id="tkI0qvv" name="log.part_stock_changed.add">
       <segment state="translated">
         <source>log.part_stock_changed.add</source>
-        <target>Stock added</target>
+        <target>Estoque adicionado</target>
       </segment>
     </unit>
     <unit id="s6SbXrz" name="log.part_stock_changed.move">
       <segment state="translated">
         <source>log.part_stock_changed.move</source>
-        <target>Stock moved</target>
+        <target>Estoque movido</target>
       </segment>
     </unit>
     <unit id="0M4eBGP" name="log.part_stock_changed.comment">
       <segment state="translated">
         <source>log.part_stock_changed.comment</source>
-        <target>Comment</target>
+        <target>Comentário</target>
       </segment>
     </unit>
     <unit id="7I3o.y6" name="log.part_stock_changed.change">
       <segment state="translated">
         <source>log.part_stock_changed.change</source>
-        <target>Change</target>
+        <target>Alterar</target>
       </segment>
     </unit>
     <unit id="h.G7pKu" name="log.part_stock_changed.move_target">
       <segment state="translated">
         <source>log.part_stock_changed.move_target</source>
-        <target>Move target</target>
+        <target>Mover destino</target>
       </segment>
     </unit>
     <unit id="eosqE8B" name="tools.builtin_footprints_viewer.title">
       <segment state="translated">
         <source>tools.builtin_footprints_viewer.title</source>
-        <target>Builtin footprint image gallery</target>
+        <target>Galeria de imagens de footprint integrado</target>
       </segment>
     </unit>
     <unit id="WdsaHPv" name="tools.builtin_footprints_viewer.hint">
       <segment state="translated">
         <source>tools.builtin_footprints_viewer.hint</source>
-        <target>This gallery lists all available built-in footprint images. If you want to use them in an attachment, type in the name (or a keyword) in the path field of the attachment and select the image from the dropdown select.</target>
+        <target>Esta galeria lista todas as imagens de footprint disponíveis. Se quiser usá-las em um anexo, digite o nome (ou uma palavra-chave) no campo de caminho do anexo e selecione a imagem na lista suspensa.</target>
       </segment>
     </unit>
     <unit id="EFtEJ2v" name="tools.ic_logos.title">
       <segment state="translated">
         <source>tools.ic_logos.title</source>
-        <target>IC logos</target>
+        <target>Logotipos IC</target>
       </segment>
     </unit>
     <unit id="nUrSHxv" name="part_list.action.group.labels">
       <segment state="translated">
         <source>part_list.action.group.labels</source>
-        <target>Labels</target>
+        <target>Etiquetas</target>
       </segment>
     </unit>
     <unit id="TRh.K81" name="part_list.action.projects.generate_label">
       <segment state="translated">
         <source>part_list.action.projects.generate_label</source>
-        <target>Generate labels (for parts)</target>
+        <target>Gerar etiquetas (para peças)</target>
       </segment>
     </unit>
     <unit id="CEr_90G" name="part_list.action.projects.generate_label_lot">
       <segment state="translated">
         <source>part_list.action.projects.generate_label_lot</source>
-        <target>Generate labels (for part lots)</target>
+        <target>Gerar etiquetas (para lotes de peças)</target>
       </segment>
     </unit>
     <unit id="QjZuQlv" name="part_list.action.generate_label.empty">
       <segment state="translated">
         <source>part_list.action.generate_label.empty</source>
-        <target>Empty label</target>
+        <target>Etiqueta vazia</target>
       </segment>
     </unit>
     <unit id="CY5MYnx" name="project.info.builds.label">
       <segment state="translated">
         <source>project.info.builds.label</source>
-        <target>Build</target>
+        <target>Construir</target>
       </segment>
     </unit>
     <unit id="Hqb3M_R" name="project.builds.build_not_possible">
       <segment state="translated">
         <source>project.builds.build_not_possible</source>
-        <target>Build not possible: Parts not stocked</target>
+        <target>Construir não é possível: Peças sem estoque</target>
       </segment>
     </unit>
     <unit id=".I7zcoK" name="project.builds.following_bom_entries_miss_instock">
       <segment state="translated">
         <source>project.builds.following_bom_entries_miss_instock</source>
-        <target>The following parts have not enough stock to build this project at least once:</target>
+        <target>As seguintes peças não têm estoque suficiente para construir este projeto pelo menos uma vez:</target>
       </segment>
     </unit>
     <unit id="fGT0qfb" name="project.builds.stocked">
       <segment state="translated">
         <source>project.builds.stocked</source>
-        <target>stocked</target>
+        <target>estocado</target>
       </segment>
     </unit>
     <unit id="s5DQlqF" name="project.builds.needed">
       <segment state="translated">
         <source>project.builds.needed</source>
-        <target>needed</target>
+        <target>necessário</target>
       </segment>
     </unit>
     <unit id="xHLsJuY" name="project.builds.build_possible">
       <segment state="translated">
         <source>project.builds.build_possible</source>
-        <target>Build possible</target>
+        <target>Construir possível</target>
       </segment>
     </unit>
     <unit id="NdZ1t7a" name="project.builds.number_of_builds_possible">
       <segment state="translated">
         <source>project.builds.number_of_builds_possible</source>
-        <target>You have enough stocked to build &lt;b&gt;%max_builds%&lt;/b&gt; builds of this project.</target>
+        <target>Você tem estoque suficiente para construir &lt;b&gt;%max_builds%&lt;/b&gt; construções deste projeto.</target>
       </segment>
     </unit>
     <unit id="iuSpPbg" name="project.builds.check_project_status">
       <segment state="translated">
         <source>project.builds.check_project_status</source>
-        <target>The current project status is &lt;b&gt;"%project_status%"&lt;/b&gt;. You should check if you really want to build the project with this status!</target>
+        <target>O status atual do projeto é &lt;b&gt;"%project_status%"&lt;/b&gt;. Você deve verificar se realmente deseja construir o projeto com este status!</target>
       </segment>
     </unit>
     <unit id="Y7vSSxi" name="project.builds.following_bom_entries_miss_instock_n">
       <segment state="translated">
         <source>project.builds.following_bom_entries_miss_instock_n</source>
-        <target>You do not have enough parts stocked to build this project %number_of_builds% times. The following parts have missing instock:</target>
+        <target>Você não tem peças suficientes em estoque para construir este projeto %number_of_builds% vezes. As seguintes peças estão faltando em estoque:</target>
       </segment>
     </unit>
     <unit id="1BGl3Dv" name="project.build.flash.invalid_input">
       <segment state="translated">
         <source>project.build.flash.invalid_input</source>
-        <target>Can not build project. Check input!</target>
+        <target>Não é possível construir o projeto. Verifique a entrada!</target>
       </segment>
     </unit>
     <unit id="eZP4nWT" name="project.build.required_qty">
       <segment state="translated">
         <source>project.build.required_qty</source>
-        <target>Required quantity</target>
+        <target>Quantidade necessária</target>
       </segment>
     </unit>
     <unit id="cPf92wN" name="project.build.btn_build">
       <segment state="translated">
         <source>project.build.btn_build</source>
-        <target>Build</target>
+        <target>Construir</target>
       </segment>
     </unit>
     <unit id="zgLSR.X" name="project.build.help">
       <segment state="translated">
         <source>project.build.help</source>
-        <target>Choose from which part lots the stock to build this project should be taken (and in which amount). Check the checkbox for each BOM Entry, when you are finished withdrawing the parts, or use the top checkbox to check all boxes at once.</target>
+        <target>Escolha de quais lotes de peças o estoque para construir este projeto deve ser retirado (e em qual quantidade). Marque a caixa de seleção para cada entrada da lista de materiais ao terminar de retirar as peças ou use a caixa de seleção superior para marcar todas as caixas de uma vez.</target>
       </segment>
     </unit>
     <unit id="srYaI3Z" name="project.build.buildsPartLot.new_lot">
       <segment state="translated">
         <source>project.build.buildsPartLot.new_lot</source>
-        <target>Create new lot</target>
+        <target>Criar novo lote</target>
       </segment>
     </unit>
     <unit id="z4i8LTc" name="project.build.add_builds_to_builds_part">
       <segment state="translated">
         <source>project.build.add_builds_to_builds_part</source>
-        <target>Add builds to project builds part</target>
+        <target>Adicionar construções à parte de construções do projeto</target>
       </segment>
     </unit>
     <unit id="NrlU0Hu" name="project.build.builds_part_lot">
       <segment state="translated">
         <source>project.build.builds_part_lot</source>
-        <target>Target lot</target>
+        <target>Lote alvo</target>
       </segment>
     </unit>
     <unit id="5DTAvWG" name="project.builds.number_of_builds">
       <segment state="translated">
         <source>project.builds.number_of_builds</source>
-        <target>Build amount</target>
+        <target>Quantidade de construções</target>
       </segment>
     </unit>
     <unit id="vrQ5ipU" name="project.builds.no_stocked_builds">
       <segment state="translated">
         <source>project.builds.no_stocked_builds</source>
-        <target>Number of stocked builds</target>
+        <target>Número de construções em estoque</target>
       </segment>
     </unit>
     <unit id="el6J5sy" name="user.change_avatar.label">
       <segment state="translated">
         <source>user.change_avatar.label</source>
-        <target>Change profile picture</target>
+        <target>Alterar foto do perfil</target>
       </segment>
     </unit>
     <unit id="XIXHWuZ" name="user_settings.change_avatar.label">
       <segment state="translated">
         <source>user_settings.change_avatar.label</source>
-        <target>Change profile picture</target>
+        <target>Alterar foto do perfil</target>
       </segment>
     </unit>
     <unit id="PsU9rzZ" name="user_settings.remove_avatar.label">
       <segment state="translated">
         <source>user_settings.remove_avatar.label</source>
-        <target>Remove profile picture</target>
+        <target>Remover foto do perfil</target>
       </segment>
     </unit>
     <unit id="_xZuBdq" name="part.edit.name.category_hint">
       <segment state="translated">
         <source>part.edit.name.category_hint</source>
-        <target>Hint from category</target>
+        <target>Dica da categoria</target>
       </segment>
     </unit>
     <unit id="NWdFy_Z" name="category.edit.partname_regex.placeholder">
       <segment state="translated">
         <source>category.edit.partname_regex.placeholder</source>
-        <target>e.g "/Capacitor \d+ nF/i"</target>
+        <target>ex.: "/Capacitor \d+ nF/i"</target>
       </segment>
     </unit>
     <unit id="DL.TreI" name="category.edit.partname_regex.help">
       <segment state="translated">
         <source>category.edit.partname_regex.help</source>
-        <target>A PCRE-compatible regular expression, which a part name have to match.</target>
+        <target>Uma expressão regular compatível com PCRE, à qual o nome da peça deve corresponder.</target>
       </segment>
     </unit>
     <unit id="GzqIwHH" name="entity.select.add_hint">
       <segment state="translated">
         <source>entity.select.add_hint</source>
-        <target>Use -&gt; to create nested structures, e.g. "Node 1-&gt;Node 1.1"</target>
+        <target>Use -&gt; para criar estruturas aninhadas, ex.: "Nó 1-&gt;Nó 1.1"</target>
       </segment>
     </unit>
     <unit id="S4CxO.T" name="entity.select.group.new_not_added_to_DB">
       <segment state="translated">
         <source>entity.select.group.new_not_added_to_DB</source>
-        <target>New (not added to DB yet)</target>
+        <target>Novo (ainda não adicionado ao banco de dados)</target>
       </segment>
     </unit>
     <unit id="CiNtzJ7" name="part.edit.save_and_new">
       <segment state="translated">
         <source>part.edit.save_and_new</source>
-        <target>Save and create new empty part</target>
+        <target>Salvar e criar uma nova peça vazia</target>
       </segment>
     </unit>
     <unit id="SHKvrZQ" name="homepage.first_steps.title">
       <segment state="translated">
         <source>homepage.first_steps.title</source>
-        <target>First steps</target>
+        <target>Primeiros passos</target>
       </segment>
     </unit>
     <unit id="XLnXtsR" name="homepage.first_steps.introduction">
       <segment state="translated">
         <source>homepage.first_steps.introduction</source>
-        <target>Your database is still empty. You might want to read the &lt;a href="%url%"&gt;documentation&lt;/a&gt; or start to creating the following data structures:</target>
+        <target>Seu banco de dados ainda está vazio. Você pode ler a &lt;a href="%url%"&gt;documentação&lt;/a&gt; ou começar a criar as seguintes estruturas de dados:</target>
       </segment>
     </unit>
     <unit id="Q79MOIk" name="homepage.first_steps.create_part">
       <segment state="translated">
         <source>homepage.first_steps.create_part</source>
-        <target>Or you can directly &lt;a href="%url%"&gt;create a new part&lt;/a&gt;.</target>
+        <target>Ou você pode &lt;a href="%url%"&gt;criar uma nova peça&lt;/a&gt; diretamente.</target>
       </segment>
     </unit>
     <unit id="vplYq4f" name="homepage.first_steps.hide_hint">
       <segment state="translated">
         <source>homepage.first_steps.hide_hint</source>
-        <target>This box will hide as soon as you have created your first part.</target>
+        <target>Esta caixa ficará oculta assim que você criar sua primeira peça.</target>
       </segment>
     </unit>
     <unit id="MJoZl4f" name="homepage.forum.text">
       <segment state="translated">
         <source>homepage.forum.text</source>
-        <target>For questions about Part-DB use the &lt;a href="%href%" class="link-external" target="_blank"&gt;discussion forum&lt;/a&gt;</target>
+        <target>Para dúvidas sobre a Parte DB, use o &lt;a href="%href%" class="link-external" target="_blank"&gt;fórum de discussão&lt;/a&gt;</target>
       </segment>
     </unit>
     <unit id="YsukbnK" name="log.element_edited.changed_fields.category">
       <segment state="translated">
         <source>log.element_edited.changed_fields.category</source>
-        <target>Category</target>
+        <target>Categoria</target>
       </segment>
     </unit>
     <unit id="zCziDS4" name="log.element_edited.changed_fields.footprint">
       <segment state="translated">
         <source>log.element_edited.changed_fields.footprint</source>
-        <target>Footprint</target>
+        <target>Área de Trabalho</target>
       </segment>
     </unit>
     <unit id="xT2Ayws" name="log.element_edited.changed_fields.manufacturer">
       <segment state="translated">
         <source>log.element_edited.changed_fields.manufacturer</source>
-        <target>Manufacturer</target>
+        <target>Fabricante</target>
       </segment>
     </unit>
     <unit id="BvfZLPa" name="log.element_edited.changed_fields.value_typical">
       <segment state="translated">
         <source>log.element_edited.changed_fields.value_typical</source>
-        <target>typ. value</target>
+        <target>Tipo de Valor</target>
       </segment>
     </unit>
     <unit id="MEoOVw3" name="log.element_edited.changed_fields.pw_reset_expires">
       <segment state="translated">
         <source>log.element_edited.changed_fields.pw_reset_expires</source>
-        <target>Password reset</target>
+        <target>Redefinição de Senha</target>
       </segment>
     </unit>
     <unit id="GwOb2Mv" name="log.element_edited.changed_fields.comment">
       <segment state="translated">
         <source>log.element_edited.changed_fields.comment</source>
-        <target>Notes</target>
+        <target>Observações</target>
       </segment>
     </unit>
     <unit id="o8tjTig" name="log.element_edited.changed_fields.supplierpartnr">
       <segment state="translated">
         <source>log.element_edited.changed_fields.supplierpartnr</source>
-        <target>Supplier part number</target>
+        <target>Número da Peça do Fornecedor</target>
       </segment>
     </unit>
     <unit id="z3691pl" name="log.element_edited.changed_fields.supplier_product_url">
       <segment state="translated">
         <source>log.element_edited.changed_fields.supplier_product_url</source>
-        <target>Link to offer</target>
+        <target>Link para a Oferta</target>
       </segment>
     </unit>
     <unit id="CFoU9E3" name="log.element_edited.changed_fields.price">
       <segment state="translated">
         <source>log.element_edited.changed_fields.price</source>
-        <target>Price</target>
+        <target>Preço</target>
       </segment>
     </unit>
     <unit id="oAY2RZS" name="log.element_edited.changed_fields.min_discount_quantity">
       <segment state="translated">
         <source>log.element_edited.changed_fields.min_discount_quantity</source>
-        <target>Minimum discount amount</target>
+        <target>Valor Mínimo de Desconto</target>
       </segment>
     </unit>
     <unit id="SWD8SDL" name="log.element_edited.changed_fields.original_filename">
       <segment state="translated">
         <source>log.element_edited.changed_fields.original_filename</source>
-        <target>Original filename</target>
+        <target>Nome do Arquivo Original</target>
       </segment>
     </unit>
     <unit id="6vuXvjA" name="log.element_edited.changed_fields.path">
       <segment state="translated">
         <source>log.element_edited.changed_fields.path</source>
-        <target>Filepath</target>
+        <target>Caminho do Arquivo</target>
       </segment>
     </unit>
     <unit id="DNGaiu9" name="log.element_edited.changed_fields.description">
       <segment state="translated">
         <source>log.element_edited.changed_fields.description</source>
-        <target>Description</target>
+        <target>Descrição</target>
       </segment>
     </unit>
     <unit id="vZfzJTi" name="log.element_edited.changed_fields.manufacturing_status">
       <segment state="translated">
         <source>log.element_edited.changed_fields.manufacturing_status</source>
-        <target>Manufacturing status</target>
+        <target>Status de Fabricação</target>
       </segment>
     </unit>
     <unit id="rGPtQ9t" name="log.element_edited.changed_fields.options.barcode_type">
       <segment state="translated">
         <source>log.element_edited.changed_fields.options.barcode_type</source>
-        <target>Barcode type</target>
+        <target>Tipo de Código de Barras</target>
       </segment>
     </unit>
     <unit id="yXXyMR7" name="log.element_edited.changed_fields.status">
@@ -10426,355 +10426,355 @@ Elemento 3</target>
     <unit id="KbQOwwT" name="log.element_edited.changed_fields.quantity">
       <segment state="translated">
         <source>log.element_edited.changed_fields.quantity</source>
-        <target>BOM Qty.</target>
+        <target>Qtd. da Lista de Materiais</target>
       </segment>
     </unit>
     <unit id="nslqnAB" name="log.element_edited.changed_fields.mountnames">
       <segment state="translated">
         <source>log.element_edited.changed_fields.mountnames</source>
-        <target>Mountnames</target>
+        <target>Nomes de montagem</target>
       </segment>
     </unit>
     <unit id="NZoAiu_" name="log.element_edited.changed_fields.name">
       <segment state="translated">
         <source>log.element_edited.changed_fields.name</source>
-        <target>Name</target>
+        <target>Nome</target>
       </segment>
     </unit>
     <unit id="XF33VuI" name="log.element_edited.changed_fields.part">
       <segment state="translated">
         <source>log.element_edited.changed_fields.part</source>
-        <target>Part</target>
+        <target>Peça</target>
       </segment>
     </unit>
     <unit id="EMsscq4" name="log.element_edited.changed_fields.price_currency">
       <segment state="translated">
         <source>log.element_edited.changed_fields.price_currency</source>
-        <target>Currency of price</target>
+        <target>Moeda do preço</target>
       </segment>
     </unit>
     <unit id=".xWUpTr" name="log.element_edited.changed_fields.partname_hint">
       <segment state="translated">
         <source>log.element_edited.changed_fields.partname_hint</source>
-        <target>Part name hint</target>
+        <target>Dica do nome da peça</target>
       </segment>
     </unit>
     <unit id="K4yyA_q" name="log.element_edited.changed_fields.partname_regex">
       <segment state="translated">
         <source>log.element_edited.changed_fields.partname_regex</source>
-        <target>Name filter</target>
+        <target>Filtro de nomes</target>
       </segment>
     </unit>
     <unit id="1swuUz4" name="log.element_edited.changed_fields.disable_footprints">
       <segment state="translated">
         <source>log.element_edited.changed_fields.disable_footprints</source>
-        <target>Disable footprints</target>
+        <target>Desativar footprints</target>
       </segment>
     </unit>
     <unit id="sZ3vQaH" name="log.element_edited.changed_fields.disable_manufacturers">
       <segment state="translated">
         <source>log.element_edited.changed_fields.disable_manufacturers</source>
-        <target>Disable manufacturers</target>
+        <target>Desativar fabricantes</target>
       </segment>
     </unit>
     <unit id="lLXp.Sn" name="log.element_edited.changed_fields.disable_autodatasheets">
       <segment state="translated">
         <source>log.element_edited.changed_fields.disable_autodatasheets</source>
-        <target>Disable automatic datasheet links</target>
+        <target>Desativar links automáticos para folhas de dados</target>
       </segment>
     </unit>
     <unit id="fCDSKXJ" name="log.element_edited.changed_fields.disable_properties">
       <segment state="translated">
         <source>log.element_edited.changed_fields.disable_properties</source>
-        <target>Disable properties</target>
+        <target>Desativar propriedades</target>
       </segment>
     </unit>
     <unit id="wb4CyCL" name="log.element_edited.changed_fields.default_description">
       <segment state="translated">
         <source>log.element_edited.changed_fields.default_description</source>
-        <target>Default description</target>
+        <target>Descrição padrão</target>
       </segment>
     </unit>
     <unit id="1wrMNTD" name="log.element_edited.changed_fields.default_comment">
       <segment state="translated">
         <source>log.element_edited.changed_fields.default_comment</source>
-        <target>Default notes</target>
+        <target>Observações padrão</target>
       </segment>
     </unit>
     <unit id="iQDst4t" name="log.element_edited.changed_fields.filetype_filter">
       <segment state="translated">
         <source>log.element_edited.changed_fields.filetype_filter</source>
-        <target>Allowed file extensions</target>
+        <target>Extensões de arquivo permitidas</target>
       </segment>
     </unit>
     <unit id="034sklg" name="log.element_edited.changed_fields.not_selectable">
       <segment state="translated">
         <source>log.element_edited.changed_fields.not_selectable</source>
-        <target>Not selected</target>
+        <target>Não selecionado</target>
       </segment>
     </unit>
     <unit id="VnV5ZXF" name="log.element_edited.changed_fields.parent">
       <segment state="translated">
         <source>log.element_edited.changed_fields.parent</source>
-        <target>Parent element</target>
+        <target>Elemento pai</target>
       </segment>
     </unit>
     <unit id="PTfC1Ht" name="log.element_edited.changed_fields.shipping_costs">
       <segment state="translated">
         <source>log.element_edited.changed_fields.shipping_costs</source>
-        <target>Shipping costs</target>
+        <target>Custos de envio</target>
       </segment>
     </unit>
     <unit id="Ov40aGn" name="log.element_edited.changed_fields.default_currency">
       <segment state="translated">
         <source>log.element_edited.changed_fields.default_currency</source>
-        <target>Default currency</target>
+        <target>Moeda padrão</target>
       </segment>
     </unit>
     <unit id="mhjAfrX" name="log.element_edited.changed_fields.address">
       <segment state="translated">
         <source>log.element_edited.changed_fields.address</source>
-        <target>Address</target>
+        <target>Endereço</target>
       </segment>
     </unit>
     <unit id="QXqFDQJ" name="log.element_edited.changed_fields.phone_number">
       <segment state="translated">
         <source>log.element_edited.changed_fields.phone_number</source>
-        <target>Phone number</target>
+        <target>Número de telefone</target>
       </segment>
     </unit>
     <unit id="YI_xb3c" name="log.element_edited.changed_fields.fax_number">
       <segment state="translated">
         <source>log.element_edited.changed_fields.fax_number</source>
-        <target>Fax number</target>
+        <target>Número de fax</target>
       </segment>
     </unit>
     <unit id="Nh2u_yr" name="log.element_edited.changed_fields.email_address">
       <segment state="translated">
         <source>log.element_edited.changed_fields.email_address</source>
-        <target>Email</target>
+        <target>E-mail</target>
       </segment>
     </unit>
     <unit id="WkNuV_p" name="log.element_edited.changed_fields.website">
       <segment state="translated">
         <source>log.element_edited.changed_fields.website</source>
-        <target>Website</target>
+        <target>Site</target>
       </segment>
     </unit>
     <unit id="sBVDEyp" name="log.element_edited.changed_fields.auto_product_url">
       <segment state="translated">
         <source>log.element_edited.changed_fields.auto_product_url</source>
-        <target>Product URL</target>
+        <target>URL do produto</target>
       </segment>
     </unit>
     <unit id="h9kfyaE" name="log.element_edited.changed_fields.is_full">
       <segment state="translated">
         <source>log.element_edited.changed_fields.is_full</source>
-        <target>Storelocation full</target>
+        <target>Localização da loja completa</target>
       </segment>
     </unit>
     <unit id="K754HtO" name="log.element_edited.changed_fields.limit_to_existing_parts">
       <segment state="translated">
         <source>log.element_edited.changed_fields.limit_to_existing_parts</source>
-        <target>Limit to existing parts</target>
+        <target>Limite de peças existentes</target>
       </segment>
     </unit>
     <unit id="Eegxslm" name="log.element_edited.changed_fields.only_single_part">
       <segment state="translated">
         <source>log.element_edited.changed_fields.only_single_part</source>
-        <target>Only single part</target>
+        <target>Somente uma peça</target>
       </segment>
     </unit>
     <unit id="eCJ831K" name="log.element_edited.changed_fields.storage_type">
       <segment state="translated">
         <source>log.element_edited.changed_fields.storage_type</source>
-        <target>Storage type</target>
+        <target>Tipo de armazenamento</target>
       </segment>
     </unit>
     <unit id="Op5BIZr" name="log.element_edited.changed_fields.footprint_3d">
       <segment state="translated">
         <source>log.element_edited.changed_fields.footprint_3d</source>
-        <target>3D model</target>
+        <target>Modelo 3D</target>
       </segment>
     </unit>
     <unit id="EjLCiIb" name="log.element_edited.changed_fields.master_picture_attachment">
       <segment state="translated">
         <source>log.element_edited.changed_fields.master_picture_attachment</source>
-        <target>Preview image</target>
+        <target>Visualizar imagem</target>
       </segment>
     </unit>
     <unit id="_oMb4Mn" name="log.element_edited.changed_fields.exchange_rate">
       <segment state="translated">
         <source>log.element_edited.changed_fields.exchange_rate</source>
-        <target>Exchange rate</target>
+        <target>Taxa de câmbio</target>
       </segment>
     </unit>
     <unit id="YcyvkgJ" name="log.element_edited.changed_fields.iso_code">
       <segment state="translated">
         <source>log.element_edited.changed_fields.iso_code</source>
-        <target>Exchange rate</target>
+        <target>Taxa de câmbio</target>
       </segment>
     </unit>
     <unit id="wFzQD92" name="log.element_edited.changed_fields.unit">
       <segment state="translated">
         <source>log.element_edited.changed_fields.unit</source>
-        <target>Unit symbol</target>
+        <target>Símbolo da unidade</target>
       </segment>
     </unit>
     <unit id="GNr5tO4" name="log.element_edited.changed_fields.is_integer">
       <segment state="translated">
         <source>log.element_edited.changed_fields.is_integer</source>
-        <target>Is integer</target>
+        <target>É um inteiro</target>
       </segment>
     </unit>
     <unit id="AKoXx51" name="log.element_edited.changed_fields.use_si_prefix">
       <segment state="translated">
         <source>log.element_edited.changed_fields.use_si_prefix</source>
-        <target>Use SI prefix</target>
+        <target>Usar prefixo SI</target>
       </segment>
     </unit>
     <unit id="6QFoB1D" name="log.element_edited.changed_fields.options.width">
       <segment state="translated">
         <source>log.element_edited.changed_fields.options.width</source>
-        <target>Width</target>
+        <target>Largura</target>
       </segment>
     </unit>
     <unit id="iQbj6Nn" name="log.element_edited.changed_fields.options.height">
       <segment state="translated">
         <source>log.element_edited.changed_fields.options.height</source>
-        <target>Height</target>
+        <target>Altura</target>
       </segment>
     </unit>
     <unit id="lAnforV" name="log.element_edited.changed_fields.options.supported_element">
       <segment state="translated">
         <source>log.element_edited.changed_fields.options.supported_element</source>
-        <target>Target type</target>
+        <target>Tipo de destino</target>
       </segment>
     </unit>
     <unit id="eJ5UT1C" name="log.element_edited.changed_fields.options.additional_css">
       <segment state="translated">
         <source>log.element_edited.changed_fields.options.additional_css</source>
-        <target>Additional styles (CSS)</target>
+        <target>Estilos adicionais (CSS)</target>
       </segment>
     </unit>
     <unit id="ZNrqq65" name="log.element_edited.changed_fields.options.lines">
       <segment state="translated">
         <source>log.element_edited.changed_fields.options.lines</source>
-        <target>Content</target>
+        <target>Conteúdo</target>
       </segment>
     </unit>
     <unit id="adOPRrN" name="log.element_edited.changed_fields.permissions.data">
       <segment state="translated">
         <source>log.element_edited.changed_fields.permissions.data</source>
-        <target>Permissions</target>
+        <target>Permissões</target>
       </segment>
     </unit>
     <unit id="OFXUqEN" name="log.element_edited.changed_fields.disabled">
       <segment state="translated">
         <source>log.element_edited.changed_fields.disabled</source>
-        <target>Disabled</target>
+        <target>Desativado</target>
       </segment>
     </unit>
     <unit id="VraT.Lo" name="log.element_edited.changed_fields.theme">
       <segment state="translated">
         <source>log.element_edited.changed_fields.theme</source>
-        <target>Theme</target>
+        <target>Tema</target>
       </segment>
     </unit>
     <unit id="QFESysH" name="log.element_edited.changed_fields.timezone">
       <segment state="translated">
         <source>log.element_edited.changed_fields.timezone</source>
-        <target>Timezone</target>
+        <target>Fuso horário</target>
       </segment>
     </unit>
     <unit id="Y0_Dafu" name="log.element_edited.changed_fields.language">
       <segment state="translated">
         <source>log.element_edited.changed_fields.language</source>
-        <target>Language</target>
+        <target>Idioma</target>
       </segment>
     </unit>
     <unit id="wbmfri6" name="log.element_edited.changed_fields.email">
       <segment state="translated">
         <source>log.element_edited.changed_fields.email</source>
-        <target>Email</target>
+        <target>E-mail</target>
       </segment>
     </unit>
     <unit id="rkZS5C3" name="log.element_edited.changed_fields.department">
       <segment state="translated">
         <source>log.element_edited.changed_fields.department</source>
-        <target>Department</target>
+        <target>Departamento</target>
       </segment>
     </unit>
     <unit id="go7d5X0" name="log.element_edited.changed_fields.last_name">
       <segment state="translated">
         <source>log.element_edited.changed_fields.last_name</source>
-        <target>Last name</target>
+        <target>Sobrenome</target>
       </segment>
     </unit>
     <unit id="EvHYyzX" name="log.element_edited.changed_fields.first_name">
       <segment state="translated">
         <source>log.element_edited.changed_fields.first_name</source>
-        <target>First name</target>
+        <target>Nome</target>
       </segment>
     </unit>
     <unit id="G4KJGe." name="log.element_edited.changed_fields.group">
       <segment state="translated">
         <source>log.element_edited.changed_fields.group</source>
-        <target>Group</target>
+        <target>Grupo</target>
       </segment>
     </unit>
     <unit id="Gsrp09m" name="log.element_edited.changed_fields.currency">
       <segment state="translated">
         <source>log.element_edited.changed_fields.currency</source>
-        <target>Preferred currency</target>
+        <target>Moeda preferencial</target>
       </segment>
     </unit>
     <unit id="UfVwEoE" name="log.element_edited.changed_fields.enforce2FA">
       <segment state="translated">
         <source>log.element_edited.changed_fields.enforce2FA</source>
-        <target>Enforce 2FA</target>
+        <target>Aplicar 2FA</target>
       </segment>
     </unit>
     <unit id="mRKlOJL" name="log.element_edited.changed_fields.symbol">
       <segment state="translated">
         <source>log.element_edited.changed_fields.symbol</source>
-        <target>Symbol</target>
+        <target>Símbolo</target>
       </segment>
     </unit>
     <unit id="E.nNQru" name="log.element_edited.changed_fields.value_min">
       <segment state="translated">
         <source>log.element_edited.changed_fields.value_min</source>
-        <target>Min. value</target>
+        <target>Valor mínimo</target>
       </segment>
     </unit>
     <unit id="LO3PFM1" name="log.element_edited.changed_fields.value_max">
       <segment state="translated">
         <source>log.element_edited.changed_fields.value_max</source>
-        <target>Max. value</target>
+        <target>Valor máximo Valor</target>
       </segment>
     </unit>
     <unit id="LDFuql3" name="log.element_edited.changed_fields.value_text">
       <segment state="translated">
         <source>log.element_edited.changed_fields.value_text</source>
-        <target>Text value</target>
+        <target>Valor de texto</target>
       </segment>
     </unit>
     <unit id="P3eCx.K" name="log.element_edited.changed_fields.show_in_table">
       <segment state="translated">
         <source>log.element_edited.changed_fields.show_in_table</source>
-        <target>Show in table</target>
+        <target>Mostrar na tabela</target>
       </segment>
     </unit>
     <unit id="SO7UxPS" name="log.element_edited.changed_fields.attachment_type">
       <segment state="translated">
         <source>log.element_edited.changed_fields.attachment_type</source>
-        <target>Show in table</target>
+        <target>Mostrar na tabela</target>
       </segment>
     </unit>
     <unit id="iF9ovqi" name="log.element_edited.changed_fields.needs_review">
       <segment state="translated">
         <source>log.element_edited.changed_fields.needs_review</source>
-        <target>Needs review</target>
+        <target>Requer revisão</target>
       </segment>
     </unit>
     <unit id="wgJmpYG" name="log.element_edited.changed_fields.tags">
@@ -10798,19 +10798,19 @@ Elemento 3</target>
     <unit id="8vd.Nys" name="log.element_edited.changed_fields.favorite">
       <segment state="translated">
         <source>log.element_edited.changed_fields.favorite</source>
-        <target>Favorite</target>
+        <target>Favorito</target>
       </segment>
     </unit>
     <unit id="EPbSuES" name="log.element_edited.changed_fields.minamount">
       <segment state="translated">
         <source>log.element_edited.changed_fields.minamount</source>
-        <target>Minimum stock</target>
+        <target>Estoque mínimo</target>
       </segment>
     </unit>
     <unit id="O0oNqBs" name="log.element_edited.changed_fields.manufacturer_product_url">
       <segment state="translated">
         <source>log.element_edited.changed_fields.manufacturer_product_url</source>
-        <target>Link to product page</target>
+        <target>Link para a página do produto</target>
       </segment>
     </unit>
     <unit id="DAYqRyW" name="log.element_edited.changed_fields.manufacturer_product_number">
@@ -10822,451 +10822,451 @@ Elemento 3</target>
     <unit id="1BNmvOj" name="log.element_edited.changed_fields.partUnit">
       <segment state="translated">
         <source>log.element_edited.changed_fields.partUnit</source>
-        <target>Measuring Unit</target>
+        <target>Unidade de medida</target>
       </segment>
     </unit>
     <unit id="c9XMmAp" name="log.element_edited.changed_fields.expiration_date">
       <segment state="translated">
         <source>log.element_edited.changed_fields.expiration_date</source>
-        <target>Expiration date</target>
+        <target>Data de validade</target>
       </segment>
     </unit>
     <unit id="s._6ZcM" name="log.element_edited.changed_fields.amount">
       <segment state="translated">
         <source>log.element_edited.changed_fields.amount</source>
-        <target>Amount</target>
+        <target>Quantidade</target>
       </segment>
     </unit>
     <unit id="f4Hn310" name="log.element_edited.changed_fields.storage_location">
       <segment state="translated">
         <source>log.element_edited.changed_fields.storage_location</source>
-        <target>Storage location</target>
+        <target>Local de armazenamento</target>
       </segment>
     </unit>
     <unit id="Qn8qh.t" name="attachment.max_file_size">
       <segment state="translated">
         <source>attachment.max_file_size</source>
-        <target>Maximum file size</target>
+        <target>Tamanho máximo do arquivo</target>
       </segment>
     </unit>
     <unit id="XQjBMnc" name="user.saml_user">
       <segment state="translated">
         <source>user.saml_user</source>
-        <target>SSO / SAML user</target>
+        <target>Usuário SSO/SAML</target>
       </segment>
     </unit>
     <unit id="6LmTC_6" name="user.saml_user.pw_change_hint">
       <segment state="translated">
         <source>user.saml_user.pw_change_hint</source>
-        <target>Your user uses single sign-on (SSO). You can not change the password and 2FA settings here. Configure them on your central SSO provider instead!</target>
+        <target>Seu usuário usa logon único (SSO). Você não pode alterar a senha e as configurações de 2FA aqui. Configure-as no seu provedor central de SSO!</target>
       </segment>
     </unit>
     <unit id="DM_p1JB" name="login.sso_saml_login">
       <segment state="translated">
         <source>login.sso_saml_login</source>
-        <target>Single Sign-On Login (SSO)</target>
+        <target>Login de logon único (SSO)</target>
       </segment>
     </unit>
     <unit id="03xCu1l" name="login.local_login_hint">
       <segment state="translated">
         <source>login.local_login_hint</source>
-        <target>The form below is only for log in with a local user. If you want to log in via single sign-on, press the button above.</target>
+        <target>O formulário abaixo serve apenas para login com um usuário local. Se desejar fazer login via logon único, pressione o botão acima.</target>
       </segment>
     </unit>
     <unit id="HG8kB1l" name="part_list.action.action.export">
       <segment state="translated">
         <source>part_list.action.action.export</source>
-        <target>Export parts</target>
+        <target>Exportar partes</target>
       </segment>
     </unit>
     <unit id="F6tbyi8" name="part_list.action.export_json">
       <segment state="translated">
         <source>part_list.action.export_json</source>
-        <target>Export to JSON</target>
+        <target>Exportar para JSON</target>
       </segment>
     </unit>
     <unit id="WhGHn59" name="part_list.action.export_csv">
       <segment state="translated">
         <source>part_list.action.export_csv</source>
-        <target>Export to CSV</target>
+        <target>Exportar para CSV</target>
       </segment>
     </unit>
     <unit id="gvVAAJZ" name="part_list.action.export_yaml">
       <segment state="translated">
         <source>part_list.action.export_yaml</source>
-        <target>Export to YAML</target>
+        <target>Exportar para YAML</target>
       </segment>
     </unit>
     <unit id="pPHh3PI" name="part_list.action.export_xml">
       <segment state="translated">
         <source>part_list.action.export_xml</source>
-        <target>Export to XML</target>
+        <target>Exportar para XML</target>
       </segment>
     </unit>
     <unit id="w0AgPEI" name="parts.import.title">
       <segment state="translated">
         <source>parts.import.title</source>
-        <target>Import parts</target>
+        <target>Importar partes</target>
       </segment>
     </unit>
     <unit id="M1ktr91" name="parts.import.errors.title">
       <segment state="translated">
         <source>parts.import.errors.title</source>
-        <target>Import violations</target>
+        <target>Violações de importação</target>
       </segment>
     </unit>
     <unit id="J0_jYnW" name="parts.import.flash.error">
       <segment state="translated">
         <source>parts.import.flash.error</source>
-        <target>Errors during import. This is most likely caused by some invalid data.</target>
+        <target>Erros durante a importação. Isso provavelmente é causado por dados inválidos.</target>
       </segment>
     </unit>
     <unit id="07X4Us1" name="parts.import.format.auto">
       <segment state="translated">
         <source>parts.import.format.auto</source>
-        <target>Automatic (based on file extension)</target>
+        <target>Automático (com base na extensão do arquivo)</target>
       </segment>
     </unit>
     <unit id="QJ1A6wq" name="parts.import.flash.error.unknown_format">
       <segment state="translated">
         <source>parts.import.flash.error.unknown_format</source>
-        <target>Could not determine the format from the given file!</target>
+        <target>Não foi possível determinar o formato do arquivo fornecido!</target>
       </segment>
     </unit>
     <unit id="Wp1kHtK" name="parts.import.flash.error.invalid_file">
       <segment state="translated">
         <source>parts.import.flash.error.invalid_file</source>
-        <target>File invalid. Please check that you have selected the right format!</target>
+        <target>Arquivo inválido. Verifique se você selecionou o formato correto!</target>
       </segment>
     </unit>
     <unit id="5qhQXjJ" name="parts.import.part_category.label">
       <segment state="translated">
         <source>parts.import.part_category.label</source>
-        <target>Category override</target>
+        <target>Substituição de categoria</target>
       </segment>
     </unit>
     <unit id="aLYzCR2" name="parts.import.part_category.help">
       <segment state="translated">
         <source>parts.import.part_category.help</source>
-        <target>If you select a value here, all imported parts will be assigned to this category. No matter what was set in the data.</target>
+        <target>Se você selecionar um valor aqui, todas as peças importadas serão atribuídas a esta categoria, independentemente do que foi definido nos dados.</target>
       </segment>
     </unit>
     <unit id="gt2SlQN" name="import.create_unknown_datastructures">
       <segment state="translated">
         <source>import.create_unknown_datastructures</source>
-        <target>Create unknown datastructures</target>
+        <target>Criar estruturas de dados desconhecidas</target>
       </segment>
     </unit>
     <unit id=".TjGPnB" name="import.create_unknown_datastructures.help">
       <segment state="translated">
         <source>import.create_unknown_datastructures.help</source>
-        <target>If this is selected, datastructures (like categories, footprints, etc.) which does not exist in the database yet, will be automatically created. If this is not selected, only existing data structures will be used, and if no matching data structure is found, the part will get assigned nothing</target>
+        <target>Se esta opção for selecionada, estruturas de dados (como categorias, footprints, etc.) que ainda não existem no banco de dados serão criadas automaticamente. Se esta opção não for selecionada, apenas as estruturas de dados existentes serão usadas e, se nenhuma estrutura de dados correspondente for encontrada, a peça não receberá nada.</target>
       </segment>
     </unit>
     <unit id="y_rsaV8" name="import.path_delimiter">
       <segment state="translated">
         <source>import.path_delimiter</source>
-        <target>Path delimiter</target>
+        <target>Delimitador de caminho</target>
       </segment>
     </unit>
     <unit id="AOG.hXc" name="import.path_delimiter.help">
       <segment state="translated">
         <source>import.path_delimiter.help</source>
-        <target>The delimiter used to mark different levels in data structure pathes like category, footprint, etc.</target>
+        <target>O delimitador usado para marcar diferentes níveis em caminhos de estrutura de dados, como categoria, footprint, etc.</target>
       </segment>
     </unit>
     <unit id="p_IxB9K" name="parts.import.help_documentation">
       <segment state="translated">
         <source>parts.import.help_documentation</source>
-        <target>See the &lt;a href="%link%"&gt;documentation&lt;/a&gt; for more information on the file format.</target>
+        <target>Consulte a &lt;a href="%link%"&gt;documentação&lt;/a&gt; para obter mais informações sobre o formato do arquivo.</target>
       </segment>
     </unit>
     <unit id="awbvhVq" name="parts.import.help">
       <segment state="translated">
         <source>parts.import.help</source>
-        <target>You can import parts from existing files with this tool. The parts will be directly written to database, so please check your file beforehand for correct content before uploading it here.</target>
+        <target>Você pode importar peças de arquivos existentes com esta ferramenta. As peças serão gravadas diretamente no banco de dados; portanto, verifique o conteúdo correto do seu arquivo antes de enviá-lo aqui.</target>
       </segment>
     </unit>
     <unit id="5.sq5ns" name="parts.import.flash.success">
       <segment state="translated">
         <source>parts.import.flash.success</source>
-        <target>Part import successful!</target>
+        <target>Importação da peça bem-sucedida!</target>
       </segment>
     </unit>
     <unit id="ZZfBkZ7" name="parts.import.errors.imported_entities">
       <segment state="translated">
         <source>parts.import.errors.imported_entities</source>
-        <target>Imported parts</target>
+        <target>Peças importadas</target>
       </segment>
     </unit>
     <unit id="PocXXLo" name="perm.import">
       <segment state="translated">
         <source>perm.import</source>
-        <target>Import data</target>
+        <target>Importar dados</target>
       </segment>
     </unit>
     <unit id="ZL.3qqU" name="parts.import.part_needs_review.label">
       <segment state="translated">
         <source>parts.import.part_needs_review.label</source>
-        <target>Mark all imported parts as "Needs review"</target>
+        <target>Marcar todas as peças importadas como "Necessita de revisão"</target>
       </segment>
     </unit>
     <unit id="7dsEiOg" name="parts.import.part_needs_review.help">
       <segment state="translated">
         <source>parts.import.part_needs_review.help</source>
-        <target>If this option is selected, then all parts will be marked as "Needs review", no matter what was set in the data.</target>
+        <target>Se esta opção for selecionada, todas as peças serão marcadas como "Necessita de revisão", independentemente do que foi definido nos dados.</target>
       </segment>
     </unit>
     <unit id="Ie9LLKJ" name="project.bom_import.flash.success">
       <segment state="translated">
         <source>project.bom_import.flash.success</source>
-        <target>Imported %count% BOM entries successfully.</target>
+        <target>%count% entradas da lista de materiais importadas com sucesso.</target>
       </segment>
     </unit>
     <unit id="KVyS8Kn" name="project.bom_import.type">
       <segment state="translated">
         <source>project.bom_import.type</source>
-        <target>Type</target>
+        <target>Tipo</target>
       </segment>
     </unit>
     <unit id="tNnYa0u" name="project.bom_import.type.kicad_pcbnew">
       <segment state="translated">
         <source>project.bom_import.type.kicad_pcbnew</source>
-        <target>KiCAD Pcbnew BOM (CSV file)</target>
+        <target>KiCAD Pcbnew BOM (arquivo CSV)</target>
       </segment>
     </unit>
     <unit id="AtW_ooO" name="project.bom_import.clear_existing_bom">
       <segment state="translated">
         <source>project.bom_import.clear_existing_bom</source>
-        <target>Clear existing BOM entries before importing</target>
+        <target>Limpar entradas da lista de materiais existentes antes de importar</target>
       </segment>
     </unit>
     <unit id="MDJdKXv" name="project.bom_import.clear_existing_bom.help">
       <segment state="translated">
         <source>project.bom_import.clear_existing_bom.help</source>
-        <target>Selecting this option will remove all existing BOM entries in the project and overwrite them with the imported BOM file!</target>
+        <target>Selecionar esta opção removerá todas as entradas da lista de materiais existentes no projeto e as substituirá pelo arquivo da lista de materiais importado!</target>
       </segment>
     </unit>
     <unit id="6ZefVTs" name="project.bom_import.flash.invalid_file">
       <segment state="translated">
         <source>project.bom_import.flash.invalid_file</source>
-        <target>File could not be imported. Please check that you have selected the right file type. Error message: %message%</target>
+        <target>O arquivo não pôde ser importado. Verifique se você selecionou o tipo de arquivo correto. Mensagem de erro: %message%</target>
       </segment>
     </unit>
     <unit id="VYjO8pv" name="project.bom_import.flash.invalid_entries">
       <segment state="translated">
         <source>project.bom_import.flash.invalid_entries</source>
-        <target>Validation error! Please check your data!</target>
+        <target>Erro de validação! Verifique seus dados!</target>
       </segment>
     </unit>
     <unit id="PLQ.uCm" name="project.import_bom">
       <segment state="translated">
         <source>project.import_bom</source>
-        <target>Import BOM for project</target>
+        <target>Importar lista de materiais para o projeto</target>
       </segment>
     </unit>
     <unit id="z1eCy1H" name="project.edit.bom.import_bom">
       <segment state="translated">
         <source>project.edit.bom.import_bom</source>
-        <target>Import BOM</target>
+        <target>Importar lista de materiais</target>
       </segment>
     </unit>
     <unit id="r5F3f_G" name="measurement_unit.new">
       <segment state="translated">
         <source>measurement_unit.new</source>
-        <target>New Measurement Unit</target>
+        <target>Nova unidade de medida</target>
       </segment>
     </unit>
     <unit id="W.vDRLw" name="measurement_unit.edit">
       <segment state="translated">
         <source>measurement_unit.edit</source>
-        <target>Edit Measurement Unit</target>
+        <target>Editar unidade de medida</target>
       </segment>
     </unit>
     <unit id="uW2WHHC" name="user.aboutMe.label">
       <segment state="translated">
         <source>user.aboutMe.label</source>
-        <target>About Me</target>
+        <target>Sobre mim</target>
       </segment>
     </unit>
     <unit id="ku3tg2t" name="storelocation.owner.label">
       <segment state="translated">
         <source>storelocation.owner.label</source>
-        <target>Owner</target>
+        <target>Proprietário</target>
       </segment>
     </unit>
     <unit id="lYlHhtl" name="storelocation.part_owner_must_match.label">
       <segment state="translated">
         <source>storelocation.part_owner_must_match.label</source>
-        <target>Part Lot owner must match storage location owner</target>
+        <target>O proprietário do lote da peça deve corresponder ao proprietário do local de armazenamento</target>
       </segment>
     </unit>
     <unit id="eMHXpbV" name="part_lot.owner">
       <segment state="translated">
         <source>part_lot.owner</source>
-        <target>Owner</target>
+        <target>Proprietário</target>
       </segment>
     </unit>
     <unit id="eS1Dxyc" name="part_lot.owner.help">
       <segment state="translated">
         <source>part_lot.owner.help</source>
-        <target>Only the owner can withdraw or add stock to this lot.</target>
+        <target>Somente o proprietário pode retirar ou adicionar estoque a este lote.</target>
       </segment>
     </unit>
     <unit id="bLSIOp4" name="log.element_edited.changed_fields.owner">
       <segment state="translated">
         <source>log.element_edited.changed_fields.owner</source>
-        <target>Owner</target>
+        <target>Proprietário</target>
       </segment>
     </unit>
     <unit id="rVOgh2Q" name="log.element_edited.changed_fields.instock_unknown">
       <segment state="translated">
         <source>log.element_edited.changed_fields.instock_unknown</source>
-        <target>Amount unknown</target>
+        <target>Quantidade desconhecida</target>
       </segment>
     </unit>
     <unit id="i8eoymO" name="log.element_edited.changed_fields.needs_refill">
       <segment state="translated">
         <source>log.element_edited.changed_fields.needs_refill</source>
-        <target>Refill needed</target>
+        <target>Reabastecimento necessário</target>
       </segment>
     </unit>
     <unit id="9zWwSvC" name="part.withdraw.access_denied">
       <segment state="translated">
         <source>part.withdraw.access_denied</source>
-        <target>Not allowed to do the desired action. Please check your permissions and the owner of the part lots.</target>
+        <target>Sem permissão para executar a ação desejada. Verifique suas permissões e as do proprietário dos lotes da peça.</target>
       </segment>
     </unit>
     <unit id="4ynARET" name="part.info.amount.less_than_desired">
       <segment state="translated">
         <source>part.info.amount.less_than_desired</source>
-        <target>Less than desired</target>
+        <target>Menos que o desejado</target>
       </segment>
     </unit>
     <unit id="KGXzzaq" name="log.cli_user">
       <segment state="translated">
         <source>log.cli_user</source>
-        <target>CLI user</target>
+        <target>Usuário CLI</target>
       </segment>
     </unit>
     <unit id="krpFlYH" name="log.element_edited.changed_fields.part_owner_must_match">
       <segment state="translated">
         <source>log.element_edited.changed_fields.part_owner_must_match</source>
-        <target>Part owner must match storage location owner</target>
+        <target>O proprietário da peça deve corresponder ao proprietário do local de armazenamento</target>
       </segment>
     </unit>
     <unit id="o5u.Nnz" name="part.filter.lessThanDesired">
       <segment state="translated">
         <source>part.filter.lessThanDesired</source>
-        <target>In stock less than desired (total amount &lt; min. amount)</target>
+        <target>Em estoque menos que o desejado (quantidade total &lt; quantidade mínima)</target>
       </segment>
     </unit>
     <unit id="YN9eLcZ" name="part.filter.lotOwner">
       <segment state="translated">
         <source>part.filter.lotOwner</source>
-        <target>Lot owner</target>
+        <target>Proprietário do lote</target>
       </segment>
     </unit>
     <unit id="h2tTdJz" name="user.show_email_on_profile.label">
       <segment state="translated">
         <source>user.show_email_on_profile.label</source>
-        <target>Show email on public profile page</target>
+        <target>Mostrar e-mail na página de perfil público</target>
       </segment>
     </unit>
     <unit id="vdDSfdV" name="log.details.title">
       <segment state="translated">
         <source>log.details.title</source>
-        <target>Log details</target>
+        <target>Detalhes do registro</target>
       </segment>
     </unit>
     <unit id="e6Lpc66" name="log.user_login.login_from_ip">
       <segment state="translated">
         <source>log.user_login.login_from_ip</source>
-        <target>Login from IP address</target>
+        <target>Login a partir do endereço IP</target>
       </segment>
     </unit>
     <unit id="sg8NMZk" name="log.user_login.ip_anonymize_hint">
       <segment state="translated">
         <source>log.user_login.ip_anonymize_hint</source>
-        <target>If the last digits of the IP address are missing, then the GDPR mode is enabled, in which IP addresses are anynomized.</target>
+        <target>Se os últimos dígitos do endereço IP estiverem ausentes, o modo GDPR está habilitado, no qual os endereços IP são anonimizados.</target>
       </segment>
     </unit>
     <unit id="K_LOvwj" name="log.user_not_allowed.unauthorized_access_attempt_to">
       <segment state="translated">
         <source>log.user_not_allowed.unauthorized_access_attempt_to</source>
-        <target>Unauthorized access attempt to page</target>
+        <target>Tentativa de acesso não autorizado à página</target>
       </segment>
     </unit>
     <unit id=".dDDdc2" name="log.user_not_allowed.hint">
       <segment state="translated">
         <source>log.user_not_allowed.hint</source>
-        <target>The request was blocked. No action should be required.</target>
+        <target>A solicitação foi bloqueada. Nenhuma ação deve ser necessária.</target>
       </segment>
     </unit>
     <unit id="VD7KzE5" name="log.no_comment">
       <segment state="translated">
         <source>log.no_comment</source>
-        <target>No comment</target>
+        <target>Sem comentários</target>
       </segment>
     </unit>
     <unit id="LNLIETb" name="log.element_changed.field">
       <segment state="translated">
         <source>log.element_changed.field</source>
-        <target>Field</target>
+        <target>Campo</target>
       </segment>
     </unit>
     <unit id="wUDIUAv" name="log.element_changed.data_before">
       <segment state="translated">
         <source>log.element_changed.data_before</source>
-        <target>Data before change</target>
+        <target>Dados antes da alteração</target>
       </segment>
     </unit>
     <unit id="YQafwyc" name="error_table.error">
       <segment state="translated">
         <source>error_table.error</source>
-        <target>An error occured during your request.</target>
+        <target>Ocorreu um erro durante sua solicitação.</target>
       </segment>
     </unit>
     <unit id="SgZGiGG" name="part.table.invalid_regex">
       <segment state="translated">
         <source>part.table.invalid_regex</source>
-        <target>Invalid regular expression (regex)</target>
+        <target>Expressão regular inválida (regex)</target>
       </segment>
     </unit>
     <unit id="Ty5FlW3" name="log.element_changed.data_after">
       <segment state="translated">
         <source>log.element_changed.data_after</source>
-        <target>Data after change</target>
+        <target>Dados após a alteração</target>
       </segment>
     </unit>
     <unit id="sgeAZXV" name="log.element_changed.diff">
       <segment state="translated">
         <source>log.element_changed.diff</source>
-        <target>Difference</target>
+        <target>Diferença</target>
       </segment>
     </unit>
     <unit id="s6PfZKL" name="log.undo.undo.short">
       <segment state="translated">
         <source>log.undo.undo.short</source>
-        <target>Undo</target>
+        <target>Desfazer</target>
       </segment>
     </unit>
     <unit id="by6cvU5" name="log.undo.revert.short">
       <segment state="translated">
         <source>log.undo.revert.short</source>
-        <target>Revert to this timestamp</target>
+        <target>Reverter para este registro de data e hora</target>
       </segment>
     </unit>
     <unit id="UoFikKP" name="log.view_version">
       <segment state="translated">
         <source>log.view_version</source>
-        <target>View version</target>
+        <target>Ver versão</target>
       </segment>
     </unit>
     <unit id="0h5cTqa" name="log.undo.undelete.short">
       <segment state="translated">
         <source>log.undo.undelete.short</source>
-        <target>Undelete</target>
+        <target>Desfazer exclusão</target>
       </segment>
     </unit>
     <unit id="sA_knpf" name="log.element_edited.changed_fields.id">
@@ -11278,177 +11278,177 @@ Elemento 3</target>
     <unit id="Az.BMZL" name="log.element_edited.changed_fields.id_owner">
       <segment state="translated">
         <source>log.element_edited.changed_fields.id_owner</source>
-        <target>Owner</target>
+        <target>Proprietário</target>
       </segment>
     </unit>
     <unit id="_dbKE2c" name="log.element_edited.changed_fields.parent_id">
       <segment state="translated">
         <source>log.element_edited.changed_fields.parent_id</source>
-        <target>Parent</target>
+        <target>Pai</target>
       </segment>
     </unit>
     <unit id="mdEw06s" name="log.details.delete_entry">
       <segment state="translated">
         <source>log.details.delete_entry</source>
-        <target>Delete log entry</target>
+        <target>Excluir entrada de registro</target>
       </segment>
     </unit>
     <unit id="FY15xpq" name="log.delete.message.title">
       <segment state="translated">
         <source>log.delete.message.title</source>
-        <target>Do you really want to delete the log entry?</target>
+        <target>Você realmente deseja excluir a entrada de registro?</target>
       </segment>
     </unit>
     <unit id="1_TpjM5" name="log.delete.message">
       <segment state="translated">
         <source>log.delete.message</source>
-        <target>If this is an element history entry, this breaks the element history! This can lead to unexpected results when using the time travel function.</target>
+        <target>Se esta for uma entrada de histórico do elemento, isso interromperá o histórico do elemento! Isso pode levar a resultados inesperados ao usar a função de viagem no tempo.</target>
       </segment>
     </unit>
     <unit id="s9lmcT6" name="log.collection_deleted.on_collection">
       <segment state="translated">
         <source>log.collection_deleted.on_collection</source>
-        <target>on Collection</target>
+        <target>na Coleção</target>
       </segment>
     </unit>
     <unit id="aKTwq37" name="log.element_edited.changed_fields.attachments">
       <segment state="translated">
         <source>log.element_edited.changed_fields.attachments</source>
-        <target>Attachments</target>
+        <target>Anexos</target>
       </segment>
     </unit>
     <unit id="FcLV2wQ" name="tfa_u2f.add_key.registration_error">
       <segment state="translated">
         <source>tfa_u2f.add_key.registration_error</source>
-        <target>An error occurred during the registration of the security key. Try again or use another security key!</target>
+        <target>Ocorreu um erro durante o registro da chave de segurança. Tente novamente ou use outra chave de segurança!</target>
       </segment>
     </unit>
     <unit id="Ptmj9pH" name="log.target_type.none">
       <segment state="translated">
         <source>log.target_type.none</source>
-        <target>None</target>
+        <target>Nenhum</target>
       </segment>
     </unit>
     <unit id="uF02.5K" name="ui.darkmode.light">
       <segment state="translated">
         <source>ui.darkmode.light</source>
-        <target>Light</target>
+        <target>Claro</target>
       </segment>
     </unit>
     <unit id="haVzHky" name="ui.darkmode.dark">
       <segment state="translated">
         <source>ui.darkmode.dark</source>
-        <target>Dark</target>
+        <target>Escuro</target>
       </segment>
     </unit>
     <unit id="yCr5Bod" name="ui.darkmode.auto">
       <segment state="translated">
         <source>ui.darkmode.auto</source>
-        <target>Auto (decide based on system settings)</target>
+        <target>Automático (decida com base nas configurações do sistema)</target>
       </segment>
     </unit>
     <unit id="T6GwJ_K" name="label_generator.no_lines_given">
       <segment state="translated">
         <source>label_generator.no_lines_given</source>
-        <target>No text content given! The labels will remain empty.</target>
+        <target>Nenhum conteúdo de texto fornecido! Os rótulos permanecerão vazios.</target>
       </segment>
     </unit>
     <unit id="9rnHbSK" name="user.password_strength.very_weak">
       <segment state="translated">
         <source>user.password_strength.very_weak</source>
-        <target>Very weak</target>
+        <target>Muito fraco</target>
       </segment>
     </unit>
     <unit id="gKHmHwM" name="user.password_strength.weak">
       <segment state="translated">
         <source>user.password_strength.weak</source>
-        <target>Weak</target>
+        <target>Fraco</target>
       </segment>
     </unit>
     <unit id="c44gN8b" name="user.password_strength.medium">
       <segment state="translated">
         <source>user.password_strength.medium</source>
-        <target>Medium</target>
+        <target>Médio</target>
       </segment>
     </unit>
     <unit id="NwiBLHc" name="user.password_strength.strong">
       <segment state="translated">
         <source>user.password_strength.strong</source>
-        <target>Strong</target>
+        <target>Forte</target>
       </segment>
     </unit>
     <unit id="Bw.iCUm" name="user.password_strength.very_strong">
       <segment state="translated">
         <source>user.password_strength.very_strong</source>
-        <target>Very strong</target>
+        <target>Muito forte</target>
       </segment>
     </unit>
     <unit id="m.RBg6w" name="perm.users.impersonate">
       <segment state="translated">
         <source>perm.users.impersonate</source>
-        <target>Impersonate other users</target>
+        <target>Representar outros usuários</target>
       </segment>
     </unit>
     <unit id="kKP1EL." name="user.impersonated_by.label">
       <segment state="translated">
         <source>user.impersonated_by.label</source>
-        <target>Impersonated by</target>
+        <target>Representado por</target>
       </segment>
     </unit>
     <unit id="MQImDCt" name="user.stop_impersonation">
       <segment state="translated">
         <source>user.stop_impersonation</source>
-        <target>Stop impersonation</target>
+        <target>Parar representação</target>
       </segment>
     </unit>
     <unit id="s5WHhYU" name="user.impersonate.btn">
       <segment state="translated">
         <source>user.impersonate.btn</source>
-        <target>Impersonate</target>
+        <target>Representar</target>
       </segment>
     </unit>
     <unit id="G6xFjeA" name="user.impersonate.confirm.title">
       <segment state="translated">
         <source>user.impersonate.confirm.title</source>
-        <target>Do you really want to impersonate this user?</target>
+        <target>Você realmente deseja representar este usuário?</target>
       </segment>
     </unit>
     <unit id="O9VZTTX" name="user.impersonate.confirm.message">
       <segment state="translated">
         <source>user.impersonate.confirm.message</source>
-        <target>This will be logged. You should only do this with a good reason.
+        <target>Isso será registrado. Você só deve fazer isso com um bom motivo.
 
-Please note, that you can not impersonate a disabled user. If you try you will get an "Access Denied" message.</target>
+Observe que você não pode representar um usuário desabilitado. Se tentar, receberá a mensagem Acesso Negado".</target>
       </segment>
     </unit>
     <unit id="P3vIfcq" name="log.type.security.user_impersonated">
       <segment state="translated">
         <source>log.type.security.user_impersonated</source>
-        <target>User impersonated</target>
+        <target>Usuário personificado</target>
       </segment>
     </unit>
     <unit id="hdr022E" name="info_providers.providers_list.title">
       <segment state="translated">
         <source>info_providers.providers_list.title</source>
-        <target>Information providers</target>
+        <target>Provedores de informações</target>
       </segment>
     </unit>
     <unit id="z3aJr8X" name="info_providers.providers_list.active">
       <segment state="translated">
         <source>info_providers.providers_list.active</source>
-        <target>Active</target>
+        <target>Ativo</target>
       </segment>
     </unit>
     <unit id="BZcuoFw" name="info_providers.providers_list.disabled">
       <segment state="translated">
         <source>info_providers.providers_list.disabled</source>
-        <target>Disabled</target>
+        <target>Desabilitado</target>
       </segment>
     </unit>
     <unit id="zm5ZHa7" name="info_providers.capabilities.basic">
       <segment state="translated">
         <source>info_providers.capabilities.basic</source>
-        <target>Basic</target>
+        <target>Básico</target>
       </segment>
     </unit>
     <unit id="01DJxrf" name="info_providers.capabilities.footprint">
@@ -11460,283 +11460,283 @@ Please note, that you can not impersonate a disabled user. If you try you will g
     <unit id="L9jFaHE" name="info_providers.capabilities.picture">
       <segment state="translated">
         <source>info_providers.capabilities.picture</source>
-        <target>Picture</target>
+        <target>Imagem</target>
       </segment>
     </unit>
     <unit id="4dSN1zm" name="info_providers.capabilities.datasheet">
       <segment state="translated">
         <source>info_providers.capabilities.datasheet</source>
-        <target>Datasheets</target>
+        <target>Folhas de dados</target>
       </segment>
     </unit>
     <unit id="CHzaxM9" name="info_providers.capabilities.price">
       <segment state="translated">
         <source>info_providers.capabilities.price</source>
-        <target>Prices</target>
+        <target>Preços</target>
       </segment>
     </unit>
     <unit id="KycdCcd" name="part.info_provider_reference.badge">
       <segment state="translated">
         <source>part.info_provider_reference.badge</source>
-        <target>The information provider used to create this part.</target>
+        <target>O provedor de informações usado para criar esta parte.</target>
       </segment>
     </unit>
     <unit id="DGTTRZd" name="part.info_provider_reference">
       <segment state="translated">
         <source>part.info_provider_reference</source>
-        <target>Created by Information provider</target>
+        <target>Criado por Provedor de informações</target>
       </segment>
     </unit>
     <unit id="7HEVJJ." name="oauth_client.connect.btn">
       <segment state="translated">
         <source>oauth_client.connect.btn</source>
-        <target>Connect OAuth</target>
+        <target>Conectar OAuth</target>
       </segment>
     </unit>
     <unit id="eaFNqp." name="info_providers.table.provider.label">
       <segment state="translated">
         <source>info_providers.table.provider.label</source>
-        <target>Provider</target>
+        <target>Provedor</target>
       </segment>
     </unit>
     <unit id="5wIJhn7" name="info_providers.search.keyword">
       <segment state="translated">
         <source>info_providers.search.keyword</source>
-        <target>Keyword</target>
+        <target>Palavra-chave</target>
       </segment>
     </unit>
     <unit id="aQMRV3K" name="info_providers.search.submit">
       <segment state="translated">
         <source>info_providers.search.submit</source>
-        <target>Search</target>
+        <target>Pesquisa</target>
       </segment>
     </unit>
     <unit id="8wI.Tt7" name="info_providers.search.providers.help">
       <segment state="translated">
         <source>info_providers.search.providers.help</source>
-        <target>Select the providers in which should be searched.</target>
+        <target>Selecione os provedores nos quais a pesquisa deve ser feita.</target>
       </segment>
     </unit>
     <unit id="hLhnae0" name="info_providers.search.providers">
       <segment state="translated">
         <source>info_providers.search.providers</source>
-        <target>Providers</target>
+        <target>Provedores</target>
       </segment>
     </unit>
     <unit id="DMnhm3o" name="info_providers.search.info_providers_list">
       <segment state="translated">
         <source>info_providers.search.info_providers_list</source>
-        <target>Show all available info providers</target>
+        <target>Mostrar todos os provedores de informações disponíveis</target>
       </segment>
     </unit>
     <unit id="JSFXwwP" name="info_providers.search.title">
       <segment state="translated">
         <source>info_providers.search.title</source>
-        <target>Create parts from info provider</target>
+        <target>Criar partes do provedor de informações</target>
       </segment>
     </unit>
     <unit id="R7y5NfE" name="oauth_client.flash.connection_successful">
       <segment state="translated">
         <source>oauth_client.flash.connection_successful</source>
-        <target>Connected to OAuth application successfully!</target>
+        <target>Conectado ao aplicativo OAuth com sucesso!</target>
       </segment>
     </unit>
     <unit id="Pmwz6z4" name="perm.part.info_providers">
       <segment state="translated">
         <source>perm.part.info_providers</source>
-        <target>Info providers</target>
+        <target>Provedores de informações</target>
       </segment>
     </unit>
     <unit id="xXubq_B" name="perm.part.info_providers.create_parts">
       <segment state="translated">
         <source>perm.part.info_providers.create_parts</source>
-        <target>Create parts from info provider</target>
+        <target>Criar partes a partir do provedor de informações</target>
       </segment>
     </unit>
     <unit id="HYefqa3" name="entity.edit.alternative_names.label">
       <segment state="translated">
         <source>entity.edit.alternative_names.label</source>
-        <target>Alternative names</target>
+        <target>Nomes alternativos</target>
       </segment>
     </unit>
     <unit id="whi1bnq" name="entity.edit.alternative_names.help">
       <segment state="translated">
         <source>entity.edit.alternative_names.help</source>
-        <target>The alternative names given here, are used to find this element based on the results of the information providers.</target>
+        <target>Os nomes alternativos fornecidos aqui são usados ​​para encontrar este elemento com base nos resultados dos provedores de informações.</target>
       </segment>
     </unit>
     <unit id="QqddSD8" name="info_providers.form.help_prefix">
       <segment state="translated">
         <source>info_providers.form.help_prefix</source>
-        <target>Provider</target>
+        <target>Provedor</target>
       </segment>
     </unit>
     <unit id="qSbBZW6" name="update_manager.new_version_available.title">
       <segment state="translated">
         <source>update_manager.new_version_available.title</source>
-        <target>New version available</target>
+        <target>Nova versão disponível</target>
       </segment>
     </unit>
     <unit id="CsGWD_x" name="update_manager.new_version_available.text">
       <segment state="translated">
         <source>update_manager.new_version_available.text</source>
-        <target>A new version of Part-DB is available. Check it out here</target>
+        <target>Uma nova versão do Part-DB está disponível. Confira aqui</target>
       </segment>
     </unit>
     <unit id="L4LQ9S_" name="update_manager.new_version_available.only_administrators_can_see">
       <segment state="translated">
         <source>update_manager.new_version_available.only_administrators_can_see</source>
-        <target>Only administrators can see this message.</target>
+        <target>Somente administradores podem ver esta mensagem.</target>
       </segment>
     </unit>
     <unit id="FtkEr6m" name="perm.system.show_available_updates">
       <segment state="translated">
         <source>perm.system.show_available_updates</source>
-        <target>Show available Part-DB updates</target>
+        <target>Mostrar atualizações disponíveis do Part-DB</target>
       </segment>
     </unit>
     <unit id="3oF2wIn" name="user.settings.api_tokens">
       <segment state="translated">
         <source>user.settings.api_tokens</source>
-        <target>API tokens</target>
+        <target>Tokens de API</target>
       </segment>
     </unit>
     <unit id="NlhkTaQ" name="user.settings.api_tokens.description">
       <segment state="translated">
         <source>user.settings.api_tokens.description</source>
-        <target>Using an API token, other applications can access Part-DB with your user rights, to perform various actions using the Part-DB REST API. If you delete an API token here, the application, which uses the token, will no longer be able to access Part-DB on your behalf.</target>
+        <target>Usando um token de API, outros aplicativos podem acessar o Part-DB com seus direitos de usuário para executar diversas ações usando a API REST do Part-DB. Se você excluir um token de API aqui, o aplicativo que o utiliza não poderá mais acessar o Part-DB em seu nome.</target>
       </segment>
     </unit>
     <unit id="at7iD.g" name="api_tokens.name">
       <segment state="translated">
         <source>api_tokens.name</source>
-        <target>Name</target>
+        <target>Nome</target>
       </segment>
     </unit>
     <unit id="B0iVfBm" name="api_tokens.access_level">
       <segment state="translated">
         <source>api_tokens.access_level</source>
-        <target>Access level</target>
+        <target>Nível de acesso</target>
       </segment>
     </unit>
     <unit id="OOOPnlL" name="api_tokens.expiration_date">
       <segment state="translated">
         <source>api_tokens.expiration_date</source>
-        <target>Expiration date</target>
+        <target>Data de expiração</target>
       </segment>
     </unit>
     <unit id="5k6W3jw" name="api_tokens.added_date">
       <segment state="translated">
         <source>api_tokens.added_date</source>
-        <target>Added at</target>
+        <target>Adicionado em</target>
       </segment>
     </unit>
     <unit id="leWWwKP" name="api_tokens.last_time_used">
       <segment state="translated">
         <source>api_tokens.last_time_used</source>
-        <target>Last time used</target>
+        <target>Última vez usado</target>
       </segment>
     </unit>
     <unit id="aowb6Lr" name="datetime.never">
       <segment state="translated">
         <source>datetime.never</source>
-        <target>Never</target>
+        <target>Nunca</target>
       </segment>
     </unit>
     <unit id="tdv18dC" name="api_token.valid">
       <segment state="translated">
         <source>api_token.valid</source>
-        <target>Valid</target>
+        <target>Válido</target>
       </segment>
     </unit>
     <unit id="XnQ9F8G" name="api_token.expired">
       <segment state="translated">
         <source>api_token.expired</source>
-        <target>Expired</target>
+        <target>Expirado</target>
       </segment>
     </unit>
     <unit id="fogYDOT" name="user.settings.show_api_documentation">
       <segment state="translated">
         <source>user.settings.show_api_documentation</source>
-        <target>Show API documentation</target>
+        <target>Mostrar documentação da API</target>
       </segment>
     </unit>
     <unit id="P2IsHB1" name="api_token.create_new">
       <segment state="translated">
         <source>api_token.create_new</source>
-        <target>Create new API token</target>
+        <target>Criar novo token de API</target>
       </segment>
     </unit>
     <unit id="aASP7Uk" name="api_token.level.read_only">
       <segment state="translated">
         <source>api_token.level.read_only</source>
-        <target>Read-Only</target>
+        <target>Somente leitura</target>
       </segment>
     </unit>
     <unit id="dgSnJlb" name="api_token.level.edit">
       <segment state="translated">
         <source>api_token.level.edit</source>
-        <target>Edit</target>
+        <target>Editar</target>
       </segment>
     </unit>
     <unit id="dE8Wlym" name="api_token.level.admin">
       <segment state="translated">
         <source>api_token.level.admin</source>
-        <target>Admin</target>
+        <target>Administrador</target>
       </segment>
     </unit>
     <unit id="rnCVLAA" name="api_token.level.full">
       <segment state="translated">
         <source>api_token.level.full</source>
-        <target>Full</target>
+        <target>Completo</target>
       </segment>
     </unit>
     <unit id="ocY_B26" name="api_tokens.access_level.help">
       <segment state="translated">
         <source>api_tokens.access_level.help</source>
-        <target>You can restrict, what the API token can access. The access is always limited by the permissions of your user.</target>
+        <target>Você pode restringir o que o token de API pode acessar. O acesso é sempre limitado pelas permissões do seu usuário.</target>
       </segment>
     </unit>
     <unit id="v5LJEMn" name="api_tokens.expiration_date.help">
       <segment state="translated">
         <source>api_tokens.expiration_date.help</source>
-        <target>After this date, the token is not usable anymore. Leave empty if the token should never expire.</target>
+        <target>Após essa data, o token não poderá mais ser usado. Deixe em branco se o token nunca expirar.</target>
       </segment>
     </unit>
     <unit id="URBfOVX" name="api_tokens.your_token_is">
       <segment state="translated">
         <source>api_tokens.your_token_is</source>
-        <target>Your API token is</target>
+        <target>Seu token de API é</target>
       </segment>
     </unit>
     <unit id="64wAuHa" name="api_tokens.please_save_it">
       <segment state="translated">
         <source>api_tokens.please_save_it</source>
-        <target>Please save it. You will not be able to see it again!</target>
+        <target>Salve-o. Você não poderá vê-lo novamente!</target>
       </segment>
     </unit>
     <unit id="KQI2tnl" name="api_tokens.create_new.back_to_user_settings">
       <segment state="translated">
         <source>api_tokens.create_new.back_to_user_settings</source>
-        <target>Back to user settings</target>
+        <target>Voltar às configurações do usuário</target>
       </segment>
     </unit>
     <unit id="uLL65DF" name="project.build.dont_check_quantity">
       <segment state="translated">
         <source>project.build.dont_check_quantity</source>
-        <target>Do not check quantities</target>
+        <target>Não verificar quantidades</target>
       </segment>
     </unit>
     <unit id="bkPXoxM" name="project.build.dont_check_quantity.help">
       <segment state="translated">
         <source>project.build.dont_check_quantity.help</source>
-        <target>If this option is selected, the given withdraw quantities are used as given, no matter if more or less parts are actually required to build this project.</target>
+        <target>Se esta opção for selecionada, as quantidades de retirada fornecidas serão usadas como fornecidas, independentemente de mais ou menos peças serem realmente necessárias para construir este projeto.</target>
       </segment>
     </unit>
     <unit id="XsE9cmC" name="part_list.action.invert_selection">
       <segment state="translated">
         <source>part_list.action.invert_selection</source>
-        <target>Invert selection</target>
+        <target>Inverter seleção</target>
       </segment>
     </unit>
     <unit id="rlw3Dwc" name="perm.api">
@@ -11748,403 +11748,403 @@ Please note, that you can not impersonate a disabled user. If you try you will g
     <unit id="GHM.X8R" name="perm.api.access_api">
       <segment state="translated">
         <source>perm.api.access_api</source>
-        <target>Access API</target>
+        <target>Acessar API</target>
       </segment>
     </unit>
     <unit id="OrJrwBa" name="perm.api.manage_tokens">
       <segment state="translated">
         <source>perm.api.manage_tokens</source>
-        <target>Manage API tokens</target>
+        <target>Gerenciar tokens de API</target>
       </segment>
     </unit>
     <unit id="IG1_0K3" name="user.settings.api_tokens.delete.title">
       <segment state="translated">
         <source>user.settings.api_tokens.delete.title</source>
-        <target>Do you really want to delete this API token?</target>
+        <target>Deseja realmente excluir este token de API?</target>
       </segment>
     </unit>
     <unit id="WnvixT0" name="user.settings.api_tokens.delete">
       <segment state="translated">
         <source>user.settings.api_tokens.delete</source>
-        <target>Delete</target>
+        <target>Excluir</target>
       </segment>
     </unit>
     <unit id="_m4wmdg" name="user.settings.api_tokens.delete.message">
       <segment state="translated">
         <source>user.settings.api_tokens.delete.message</source>
-        <target>The application, which uses this API token, will no longer have access to Part-DB. This action can not be undone!</target>
+        <target>O aplicativo, que usa este token de API, não terá mais acesso ao Part-DB. Esta ação não pode ser desfeita!</target>
       </segment>
     </unit>
     <unit id="i623ek8" name="api_tokens.deleted">
       <segment state="translated">
         <source>api_tokens.deleted</source>
-        <target>API token deleted successfully!</target>
+        <target>Token de API excluído com sucesso!</target>
       </segment>
     </unit>
     <unit id="Ba2OP2S" name="user.settings.api_tokens.no_api_tokens_yet">
       <segment state="translated">
         <source>user.settings.api_tokens.no_api_tokens_yet</source>
-        <target>No API tokens configured yet.</target>
+        <target>Nenhum token de API configurado ainda.</target>
       </segment>
     </unit>
     <unit id="VHKK3KL" name="api_token.ends_with">
       <segment state="translated">
         <source>api_token.ends_with</source>
-        <target>Ends with</target>
+        <target>Termina com</target>
       </segment>
     </unit>
     <unit id="Jq3yBCq" name="entity.select.creating_new_entities_not_allowed">
       <segment state="translated">
         <source>entity.select.creating_new_entities_not_allowed</source>
-        <target>You are not allowed to create new entities of this type! Please choose a pre-existing one.</target>
+        <target>Você não tem permissão para criar novas entidades deste tipo! Escolha uma já existente.</target>
       </segment>
     </unit>
     <unit id="xhqEehV" name="scan_dialog.mode">
       <segment state="translated">
         <source>scan_dialog.mode</source>
-        <target>Barcode type</target>
+        <target>Tipo de código de barras</target>
       </segment>
     </unit>
     <unit id="VlExlxh" name="scan_dialog.mode.auto">
       <segment state="translated">
         <source>scan_dialog.mode.auto</source>
-        <target>Auto detect</target>
+        <target>Detecção automática</target>
       </segment>
     </unit>
     <unit id="W5qYo4M" name="scan_dialog.mode.ipn">
       <segment state="translated">
         <source>scan_dialog.mode.ipn</source>
-        <target>IPN barcode</target>
+        <target>Código de barras IPN</target>
       </segment>
     </unit>
     <unit id="dnCyzXq" name="scan_dialog.mode.internal">
       <segment state="translated">
         <source>scan_dialog.mode.internal</source>
-        <target>Part-DB barcode</target>
+        <target>Código de barras Part-DB</target>
       </segment>
     </unit>
     <unit id="JziKG8u" name="part_association.label">
       <segment state="translated">
         <source>part_association.label</source>
-        <target>Part association</target>
+        <target>Associação de peças</target>
       </segment>
     </unit>
     <unit id="ZUTnGrb" name="part.edit.tab.associations">
       <segment state="translated">
         <source>part.edit.tab.associations</source>
-        <target>Associated parts</target>
+        <target>Peças associadas</target>
       </segment>
     </unit>
     <unit id="RbW42yL" name="part_association.edit.other_part">
       <segment state="translated">
         <source>part_association.edit.other_part</source>
-        <target>Associated part</target>
+        <target>Peça associada</target>
       </segment>
     </unit>
     <unit id="W_ic7va" name="part_association.edit.type">
       <segment state="translated">
         <source>part_association.edit.type</source>
-        <target>Relation Type</target>
+        <target>Tipo de relação</target>
       </segment>
     </unit>
     <unit id="gWAhMoP" name="part_association.edit.comment">
       <segment state="translated">
         <source>part_association.edit.comment</source>
-        <target>Notes</target>
+        <target>Observações</target>
       </segment>
     </unit>
     <unit id="nHFZU6q" name="part_association.edit.type.help">
       <segment state="translated">
         <source>part_association.edit.type.help</source>
-        <target>You can select here, how the chosen part is related to this part.</target>
+        <target>Você pode selecionar aqui como a peça escolhida se relaciona com esta peça.</target>
       </segment>
     </unit>
     <unit id="A8La_LS" name="part_association.table.from_this_part">
       <segment state="translated">
         <source>part_association.table.from_this_part</source>
-        <target>Associations from this part to others</target>
+        <target>Associações desta parte com outras</target>
       </segment>
     </unit>
     <unit id="J_4oT4U" name="part_association.table.from">
       <segment state="translated">
         <source>part_association.table.from</source>
-        <target>From</target>
+        <target>De</target>
       </segment>
     </unit>
     <unit id="S9rxYUD" name="part_association.table.type">
       <segment state="translated">
         <source>part_association.table.type</source>
-        <target>Relation</target>
+        <target>Relação</target>
       </segment>
     </unit>
     <unit id="D86ZFxS" name="part_association.table.to">
       <segment state="translated">
         <source>part_association.table.to</source>
-        <target>To</target>
+        <target>Para</target>
       </segment>
     </unit>
     <unit id="CIDXYeb" name="part_association.type.compatible">
       <segment state="translated">
         <source>part_association.type.compatible</source>
-        <target>Is compatible with</target>
+        <target>É compatível com</target>
       </segment>
     </unit>
     <unit id="9ahaE3u" name="part_association.table.to_this_part">
       <segment state="translated">
         <source>part_association.table.to_this_part</source>
-        <target>Associations to this part from others</target>
+        <target>Associações desta peça com outras</target>
       </segment>
     </unit>
     <unit id="XvN7mN6" name="part_association.type.other">
       <segment state="translated">
         <source>part_association.type.other</source>
-        <target>Other (custom value)</target>
+        <target>Outro (valor personalizado)</target>
       </segment>
     </unit>
     <unit id="RtXh9C9" name="part_association.type.supersedes">
       <segment state="translated">
         <source>part_association.type.supersedes</source>
-        <target>Supersedes</target>
+        <target>Substitui</target>
       </segment>
     </unit>
     <unit id="vmpL8Fq" name="part_association.edit.other_type">
       <segment state="translated">
         <source>part_association.edit.other_type</source>
-        <target>Custom type</target>
+        <target>Tipo personalizado</target>
       </segment>
     </unit>
     <unit id="73N92SU" name="part_association.edit.delete.confirm">
       <segment state="translated">
         <source>part_association.edit.delete.confirm</source>
-        <target>Do you really want to delete this association? This can not be undone.</target>
+        <target>Deseja realmente excluir esta associação? Esta ação não pode ser desfeita.</target>
       </segment>
     </unit>
     <unit id="DWcRAu4" name="part_lot.edit.advanced">
       <segment state="translated">
         <source>part_lot.edit.advanced</source>
-        <target>Expand advanced options</target>
+        <target>Expandir opções avançadas</target>
       </segment>
     </unit>
     <unit id="CynMoO5" name="part_lot.edit.vendor_barcode">
       <segment state="translated">
         <source>part_lot.edit.vendor_barcode</source>
-        <target>Vendor barcode</target>
+        <target>Código de barras do fornecedor</target>
       </segment>
     </unit>
     <unit id="22Y3GfL" name="part_lot.edit.vendor_barcode.help">
       <segment state="translated">
         <source>part_lot.edit.vendor_barcode.help</source>
-        <target>If this lot already have a barcode (e.g. put there by the vendor), you can input its content here, to easily scan it.</target>
+        <target>Se este lote já tiver um código de barras (por exemplo, inserido pelo fornecedor), você pode inserir seu conteúdo aqui para digitalizá-lo facilmente.</target>
       </segment>
     </unit>
     <unit id="tFAtJBM" name="scan_dialog.mode.vendor">
       <segment state="translated">
         <source>scan_dialog.mode.vendor</source>
-        <target>Vendor barcode (configured in part lot)</target>
+        <target>Código de barras do fornecedor (configurado no lote da peça)</target>
       </segment>
     </unit>
     <unit id="J8fTjKW" name="project.bom.instockAmount">
       <segment state="translated">
         <source>project.bom.instockAmount</source>
-        <target>Stocked amount</target>
+        <target>Quantidade em estoque</target>
       </segment>
     </unit>
     <unit id="iwqnhpZ" name="collection_type.new_element.tooltip">
       <segment state="translated">
         <source>collection_type.new_element.tooltip</source>
-        <target>This element was newly created and was not persisted to the database yet.</target>
+        <target>Este elemento foi criado recentemente e ainda não foi salvo no banco de dados.</target>
       </segment>
     </unit>
     <unit id="HOAqbdD" name="part.merge.title">
       <segment state="translated">
         <source>part.merge.title</source>
-        <target>Merge part</target>
+        <target>Mesclar peça</target>
       </segment>
     </unit>
     <unit id="VRUw_MQ" name="part.merge.title.into">
       <segment state="translated">
         <source>part.merge.title.into</source>
-        <target>into</target>
+        <target>em</target>
       </segment>
     </unit>
     <unit id="i68lU5x" name="part.merge.confirm.title">
       <segment state="translated">
         <source>part.merge.confirm.title</source>
-        <target>Do you really want to merge &lt;b&gt;%other%&lt;/b&gt; into &lt;b&gt;%target%&lt;/b&gt;?</target>
+        <target>Você realmente deseja mesclar &lt;b&gt;%outro%&lt;/b&gt; em &lt;b&gt;%target%&lt;/b&gt;?</target>
       </segment>
     </unit>
     <unit id="k0anzYV" name="part.merge.confirm.message">
       <segment state="translated">
         <source>part.merge.confirm.message</source>
-        <target>&lt;b&gt;%other%&lt;/b&gt; will be deleted, and the part will be saved with the shown information.</target>
+        <target>&lt;b&gt;%other%&lt;/b&gt; será excluído e a peça será salva com as informações exibidas.</target>
       </segment>
     </unit>
     <unit id="mmW5Yl1" name="part.info.merge_modal.title">
       <segment state="translated">
         <source>part.info.merge_modal.title</source>
-        <target>Merge parts</target>
+        <target>Mesclar peças</target>
       </segment>
     </unit>
     <unit id="F2uzrOj" name="part.info.merge_modal.other_part">
       <segment state="translated">
         <source>part.info.merge_modal.other_part</source>
-        <target>Other part</target>
+        <target>Outra peça</target>
       </segment>
     </unit>
     <unit id="1Ot.sRs" name="part.info.merge_modal.other_into_this">
       <segment state="translated">
         <source>part.info.merge_modal.other_into_this</source>
-        <target>Merge other part into this one (delete other part, keep this one)</target>
+        <target>Mesclar outra peça nesta (excluir a outra peça, manter esta)</target>
       </segment>
     </unit>
     <unit id="QwaQrcy" name="part.info.merge_modal.this_into_other">
       <segment state="translated">
         <source>part.info.merge_modal.this_into_other</source>
-        <target>Merge this part into other one (delete this part, keep other one)</target>
+        <target>Mesclar esta peça em outra (excluir esta peça, manter a outra)</target>
       </segment>
     </unit>
     <unit id="BvzFQza" name="part.info.merge_btn">
       <segment state="translated">
         <source>part.info.merge_btn</source>
-        <target>Merge part</target>
+        <target>Mesclar peça</target>
       </segment>
     </unit>
     <unit id="Bxk6TEw" name="part.update_part_from_info_provider.btn">
       <segment state="translated">
         <source>part.update_part_from_info_provider.btn</source>
-        <target>Update part from info providers</target>
+        <target>Atualizar peça dos provedores de informações</target>
       </segment>
     </unit>
     <unit id="7pDRUQB" name="info_providers.update_part.title">
       <segment state="translated">
         <source>info_providers.update_part.title</source>
-        <target>Update existing part from info provider</target>
+        <target>Atualizar peça existente do provedor de informações</target>
       </segment>
     </unit>
     <unit id="ae9PVMs" name="part.merge.flash.please_review">
       <segment state="translated">
         <source>part.merge.flash.please_review</source>
-        <target>Data not saved yet. Review the changes and click save to persist the new data.</target>
+        <target>Dados ainda não salvos. Revise as alterações e clique em salvar para manter os novos dados.</target>
       </segment>
     </unit>
     <unit id="NmsEQ7I" name="user.edit.flash.permissions_fixed">
       <segment state="translated">
         <source>user.edit.flash.permissions_fixed</source>
-        <target>Permissions required by other permissions were missing. This was corrected. Please check if the permissions are as you intended.</target>
+        <target>Permissões exigidas por outras permissões que estavam ausentes. Isso foi corrigido. Verifique se as permissões estão como você pretendia.</target>
       </segment>
     </unit>
     <unit id="Y8bGSEj" name="permission.legend.dependency_note">
       <segment state="translated">
         <source>permission.legend.dependency_note</source>
-        <target>Please note that some permission operations depend on each other. If you encounter a warning that missing permissions were corrected and a permission was set to allow again, you have to set the dependent operation to forbid too. The dependents can normally found right of an operation.</target>
+        <target>Observe que algumas operações de permissão dependem umas das outras. Se você receber um aviso informando que as permissões ausentes foram corrigidas e uma permissão foi definida como permitida novamente, você também deverá definir a operação dependente como proibida. As dependentes normalmente podem ser encontradas à direita de uma operação.</target>
       </segment>
     </unit>
     <unit id="zWj5h2X" name="log.part_stock_changed.timestamp">
       <segment state="translated">
         <source>log.part_stock_changed.timestamp</source>
-        <target>Timestamp</target>
+        <target>Carimbo de Data/Hora</target>
       </segment>
     </unit>
     <unit id="tZotqiY" name="part.info.withdraw_modal.timestamp">
       <segment state="translated">
         <source>part.info.withdraw_modal.timestamp</source>
-        <target>Action timestamp</target>
+        <target>Carimbo de Data/Hora da Ação</target>
       </segment>
     </unit>
     <unit id="ELkNDOV" name="part.info.withdraw_modal.timestamp.hint">
       <segment state="translated">
         <source>part.info.withdraw_modal.timestamp.hint</source>
-        <target>This field allows you to specify the real date, when the stock operation actually was performed, and not just when it was logged. This value is saved in the extra field of the log entry.</target>
+        <target>Este campo permite especificar a data real, quando a operação de estoque foi efetivamente realizada, e não apenas quando foi registrada. Este valor é salvo no campo extra da entrada de log.</target>
       </segment>
     </unit>
     <unit id="duBTELg" name="part.info.withdraw_modal.delete_lot_if_empty">
       <segment state="translated">
         <source>part.info.withdraw_modal.delete_lot_if_empty</source>
-        <target>Delete this lot, if it becomes empty</target>
+        <target>Exclua este lote se estiver vazio.</target>
       </segment>
     </unit>
     <unit id="SMclulD" name="info_providers.search.error.client_exception">
       <segment state="translated">
         <source>info_providers.search.error.client_exception</source>
-        <target>An error occurred while communicating with the information provider. Check the configuration for this provider and refresh the OAuth tokens if possible.</target>
+        <target>Ocorreu um erro durante a comunicação com o provedor de informações. Verifique a configuração deste provedor e atualize os tokens OAuth, se possível.</target>
       </segment>
     </unit>
     <unit id="LOw2TOY" name="eda_info.reference_prefix.placeholder">
       <segment state="translated">
         <source>eda_info.reference_prefix.placeholder</source>
-        <target>e.g. R</target>
+        <target>Ex.: R</target>
       </segment>
     </unit>
     <unit id="4tyEwts" name="eda_info.reference_prefix">
       <segment state="translated">
         <source>eda_info.reference_prefix</source>
-        <target>Reference prefix</target>
+        <target>Prefixo de referência</target>
       </segment>
     </unit>
     <unit id="Ta9otKz" name="eda_info.kicad_section.title">
       <segment state="translated">
         <source>eda_info.kicad_section.title</source>
-        <target>KiCad specific settings</target>
+        <target>Configurações específicas do KiCad</target>
       </segment>
     </unit>
     <unit id="zjeDW4V" name="eda_info.value">
       <segment state="translated">
         <source>eda_info.value</source>
-        <target>Value</target>
+        <target>Valor</target>
       </segment>
     </unit>
     <unit id="jU1hT2r" name="eda_info.value.placeholder">
       <segment state="translated">
         <source>eda_info.value.placeholder</source>
-        <target>e.g. 100n</target>
+        <target>Ex.: 100n</target>
       </segment>
     </unit>
     <unit id="LK52LEX" name="eda_info.exclude_from_bom">
       <segment state="translated">
         <source>eda_info.exclude_from_bom</source>
-        <target>Exclude part from BOM</target>
+        <target>Excluir peça da BOM</target>
       </segment>
     </unit>
     <unit id="upD8zh_" name="eda_info.exclude_from_board">
       <segment state="translated">
         <source>eda_info.exclude_from_board</source>
-        <target>Exclude part from PCB/Board</target>
+        <target>Excluir peça da PCB/Placa</target>
       </segment>
     </unit>
     <unit id="aWEXBed" name="eda_info.exclude_from_sim">
       <segment state="translated">
         <source>eda_info.exclude_from_sim</source>
-        <target>Exclude part from simulation</target>
+        <target>Excluir peça da simulação</target>
       </segment>
     </unit>
     <unit id="dTBimL_" name="eda_info.kicad_symbol">
       <segment state="translated">
         <source>eda_info.kicad_symbol</source>
-        <target>KiCad schematic symbol</target>
+        <target>Símbolo esquemático do KiCad</target>
       </segment>
     </unit>
     <unit id="akSsYRH" name="eda_info.kicad_symbol.placeholder">
       <segment state="translated">
         <source>eda_info.kicad_symbol.placeholder</source>
-        <target>e.g. Transistor_BJT:BC547</target>
+        <target>Ex.: Transistor_BJT:BC547</target>
       </segment>
     </unit>
     <unit id="Af5tvOr" name="eda_info.kicad_footprint">
       <segment state="translated">
         <source>eda_info.kicad_footprint</source>
-        <target>KiCad footprint</target>
+        <target>Footprint do KiCad</target>
       </segment>
     </unit>
     <unit id="PmYqhWI" name="eda_info.kicad_footprint.placeholder">
       <segment state="translated">
         <source>eda_info.kicad_footprint.placeholder</source>
-        <target>e.g. Package_TO_SOT_THT:TO-92</target>
+        <target>Ex.: Package_TO_SOT_THT:TO-92</target>
       </segment>
     </unit>
     <unit id="KBXVZgz" name="part.edit.tab.eda">
       <segment state="translated">
         <source>part.edit.tab.eda</source>
-        <target>EDA information</target>
+        <target>Informações EDA</target>
       </segment>
     </unit>
     <unit id="BufiSOt" name="api.api_endpoints.title">
@@ -12156,43 +12156,43 @@ Please note, that you can not impersonate a disabled user. If you try you will g
     <unit id="4qU.QCJ" name="api.api_endpoints.partdb">
       <segment state="translated">
         <source>api.api_endpoints.partdb</source>
-        <target>Part-DB API</target>
+        <target>API Part-DB</target>
       </segment>
     </unit>
     <unit id="mKqaVw1" name="api.api_endpoints.kicad_root_url">
       <segment state="translated">
         <source>api.api_endpoints.kicad_root_url</source>
-        <target>KiCad API root URL</target>
+        <target>URL raiz da API KiCad</target>
       </segment>
     </unit>
     <unit id="wbdbASc" name="eda_info.visibility">
       <segment state="translated">
         <source>eda_info.visibility</source>
-        <target>Force visibility</target>
+        <target>Forçar visibilidade</target>
       </segment>
     </unit>
     <unit id="V3_Ff8P" name="eda_info.visibility.help">
       <segment state="translated">
         <source>eda_info.visibility.help</source>
-        <target>By default, the visibility to the EDA software is automatically determined. With this checkbox, you can force the part to be visible or invisible.</target>
+        <target>Por padrão, a visibilidade para o software EDA é determinada automaticamente. Com esta caixa de seleção, você pode forçar a parte a ficar visível ou invisível.</target>
       </segment>
     </unit>
     <unit id="mF8BVBu" name="part.withdraw.zero_amount">
       <segment state="translated">
         <source>part.withdraw.zero_amount</source>
-        <target>You tried to withdraw/add an amount of zero! No action was performed.</target>
+        <target>Você tentou sacar/adicionar um valor de zero! Nenhuma ação foi realizada.</target>
       </segment>
     </unit>
     <unit id="yJZLN14" name="login.flash.access_denied_please_login">
       <segment state="translated">
         <source>login.flash.access_denied_please_login</source>
-        <target>Access denied! Please log in to continue.</target>
+        <target>Acesso negado! Faça login para continuar.</target>
       </segment>
     </unit>
     <unit id="bOp3GTq" name="attachment.upload_multiple_files">
       <segment state="translated">
         <source>attachment.upload_multiple_files</source>
-        <target>Upload files</target>
+        <target>Carregar arquivos</target>
       </segment>
     </unit>
     <unit id="FsSXLD4" name="entity.mass_creation_flash">
